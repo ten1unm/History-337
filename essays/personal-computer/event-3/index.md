@@ -4,7 +4,7 @@ layout: scrollstory-tabs
 header-image: images/personal-computer.jpg
 header-title: "The Personal Computer"
 thumbnail: images/personal-computer.jpg
-summary: A history of the personal computer.
+summary: A social and cultural history of the personal computer.
 tabs:
   - id: overview
     label: Overview of the PC
