@@ -32,7 +32,7 @@ The story about how a relatively unknown junior senator from Wisconsin came to w
 
 ## Joseph McCarthy's Rise to Power 
 
-Joseph McCarthy was an unremarkable junior senator from Wisconsin for the first three years of his term until he capitalized on American fears of Communism. On February, 1950, he gave a speech in Wheeling, West Virginia, and warned the American public about "the enemies within."  Enumerating the global expansion of Communism since the end of the Second World War, McCarthy claimed to have a list of US State Department employees who were mmebers of the Communist Party. He warned, "One thing to remember in discussing the communists in our government is that. ...We are dealing with a far more sinister type of activity because it permits the enemy to guide and shape our policy."[\^source1]
+Joseph McCarthy was an unremarkable junior senator from Wisconsin for the first three years of his term until he capitalized on American fears of Communism. On February, 1950, he gave a speech in Wheeling, West Virginia, and warned the American public about "the enemies within."  Enumerating the global expansion of Communism since the end of the Second World War, McCarthy claimed to have a list of US State Department employees who were mmebers of the Communist Party. He warned, "One thing to remember in discussing the communists in our government is that. ...We are dealing with a far more sinister type of activity because it permits the enemy to guide and shape our policy."[^source1]
 
 
 {% include images/figure-wrap.html
@@ -47,7 +47,7 @@ Joseph McCarthy was an unremarkable junior senator from Wisconsin for the first 
 
 In response to McCarthy's claims, the American public and press did not ask for evidence supporting these allegations, but reacted with demands that the State Department purge those employees from government service.   
 
-[\^source1]:McCarthy, J. "Address to the League of Women's Voters." Wheeling, West Virgina. February 9, 1950. Accessed at https://teachingamericanhistory.org/document/address-to-the-league-of-women-voters-wheeling-west-virginia-2/. 
+[^source1]:McCarthy, J. "Address to the League of Women's Voters." Wheeling, West Virgina. February 9, 1950. Accessed at https://teachamericanhistory.wordpress.com/wp-content/uploads/2009/06/mccarthy_wheeling_speech.pdf 
 
 
 ## The Global Circulation
@@ -72,7 +72,7 @@ When New Mexico became a U.S. state in 1912, one of its first instincts was to a
 {% include images/figure-wrap.html
   image-path="images/3_29_50_Block_McCarthyism.jpg"
   image-position="right"
-  image-width="45%"
+  image-width="30%"
   caption="Editorial cartoonist Herb Block is credited with coining the term McCarthyism in 1950 with this cartoon for *The Washington Post.*"
   text=chile_nm_text
 %}
