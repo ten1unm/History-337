@@ -7,28 +7,28 @@ thumbnail: images/hippies.jpg
 summary: A history of the US Japan Trade War.
 tabs:
   - id: overview
-    label: Overview of Hippies
+    label: Overview of the Trade War
     url: ./
     active: true
 
   - id: event-1
-    label: The Merry Pranksters
+    label: Background Information
     url: event-1/
 
   - id: event-2
-    label: The Summer of Love
+    label: The US Auto Industry
     url: event-2/
 
   - id: event-3
-    label: Absorption into New Age
+    label: The Plaza Accord
     url: event-3/
 ---
 
-# Overview of the Hippie Movement
+# Overview of the Trade War
 
-Before the Spanish arrived, before the United States existed, before the concept of the Southwest was even imagined, there were chiles. Not the long red ristras you see hanging on gallery walls, not the hot sauces in grocery stores, not even the dried red chile sauce that defines New Mexican cooking. But *chiles*—wild, small, incredibly pungent plants that grew in what is now Mexico and Central America.
+Paragraph 1 Provide an introduction paragraph here 
 
-The story of how this plant became the defining ingredient of Southwestern cuisine is the story of climate, conquest, adaptation, and an entire region's relationship to heat—both literal and cultural.
+Summarize and transition into section below
 
 ## Wild Origins and Sacred Uses
 

@@ -7,7 +7,7 @@ thumbnail: ../images/hippies.jpg
 summary: A history of US Japan 1980s trade wars
 tabs:
   - id: overview
-    label: Overview of Hippies
+    label: Overview of the US Japan Tradewar
     url: ../
 
 
@@ -17,11 +17,11 @@ tabs:
     active: true
 
   - id: event-2
-    label: Autoindustry
+    label: The US Auto Industry
     url: ../event-2/
 
   - id: event-3
-    label: Plaza Accord
+    label: The Plaza Accord
     url: ../event-3/
 ---
 

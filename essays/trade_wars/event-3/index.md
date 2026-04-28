@@ -11,15 +11,15 @@ tabs:
     url: ../
 
   - id: event-1
-    label: The Merry Pranksters
+    label: Background infomation
     url: ../event-1/
 
   - id: event-2
-    label: The Summer of Love
+    label: The US Auto Industry
     url: ../event-2/
 
   - id: event-3
-    label: Absorption into New Age
+    label: The Plaza Accord
     url: ../event-3/
     active: true
 ---
