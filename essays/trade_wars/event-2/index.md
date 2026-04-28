@@ -7,7 +7,7 @@ thumbnail: ../images/hippies.jpg
 summary: A history of the Hippie Movement
 tabs:
   - id: overview
-    label: Overview of Hippies
+    label: Overview of the US Japan Tradewar 
     url: ../
 
   - id: event-1
