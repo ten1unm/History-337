@@ -2,7 +2,7 @@
 title: "Hippies"
 layout: scrollstory-tabs
 header-image: ../images/hippies.jpg
-header-title: "The Hippie Movement"
+header-title: "The Plaza Accord"
 thumbnail: ../images/hippies.jpg
 summary: A history of the Hippie Movement.
 tabs:
