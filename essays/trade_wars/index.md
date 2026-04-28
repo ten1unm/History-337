@@ -1,7 +1,7 @@
 ---
 title: "Trade Wars"
 layout: scrollstory-tabs
-header-image: /images/reagan_japanese_meetings_london_1984.jpg
+header-image: ./images/reagan_japanese_meetings_london_1984.jpg
 header-title: "The US Japan 1980s Trade War"
 thumbnail: images/hippies.jpg
 summary: A history of the US Japan Trade War.
