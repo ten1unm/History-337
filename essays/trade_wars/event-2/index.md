@@ -1,7 +1,7 @@
 ---
 title: "Hippies"
 layout: scrollstory-tabs
-header-image: ../images/hippies.jpg
+header-image: ../nakasone_and_reagan_reviewing_troops_at_arrival_ceremony_at_palace_in_tokyo,_japan_may_4,_1986.jpg
 header-title: "Hippies"
 thumbnail: ../images/hippies.jpg
 summary: A history of the Hippie Movement
