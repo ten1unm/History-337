@@ -2,7 +2,7 @@
 title: "Trade Wars"
 layout: scrollstory-tabs
 header-image: /images/reagan_japanese_meetings_london_1984.jpg
-header-title: "US Trade Agreements"
+header-title: "The US Japan 1980s Trade War"
 thumbnail: images/hippies.jpg
 summary: A history of the US Japan Trade War.
 tabs:
@@ -24,7 +24,7 @@ tabs:
     url: event-3/
 ---
 
-# Overview of the Trade War
+# Overview of the the 80s US Japanese Trade War
 
 Paragraph 1 Provide an introduction paragraph here 
 
