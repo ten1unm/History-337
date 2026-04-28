@@ -1,9 +1,9 @@
 ---
 title: "Hippies"
 layout: scrollstory-tabs
-header-image: ../nakasone_and_reagan_reviewing_troops_at_arrival_ceremony_at_palace_in_tokyo,_japan_may_4,_1986.jpg
-header-title: "Hippies"
-thumbnail: ../images/hippies.jpg
+header-image: ./nakasone_and_reagan_reviewing_troops_at_arrival_ceremony_at_palace_in_tokyo,_japan_may_4,_1986.jpg
+header-title: "American Automotive Industry"
+thumbnail: ./nakasone_and_reagan_reviewing_troops_at_arrival_ceremony_at_palace_in_tokyo,_japan_may_4,_1986.jpg
 summary: A history of the Hippie Movement
 tabs:
   - id: overview
@@ -24,7 +24,7 @@ tabs:
     url: ../event-3/
 ---
 
-# The Summer of Love
+# Autoindustry impact
 
 From wild origins in the Mexican highlands to cultivation across the globe, geography has shaped every aspect of chile culture.
 
