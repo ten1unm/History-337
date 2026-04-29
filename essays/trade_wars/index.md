@@ -30,12 +30,12 @@ Paragraph 1 Provide an introduction paragraph here
 
 Summarize and transition into section below
 
-## Humbled Empire to rising nation
+## Humbled Empire to Rising Nation
 
 {% capture chile_origins_text %}
-All this text will be to the right of a picture below. Japan would go from an enemy defeated by the United States in World War 2 to econoimc competitor in the 1980s. Both nations shared a view on working hard and playing hard though each nationa is cultarully distinct.
+From 1945 to 1977, Japan would go from an enemy defeated by the United States in World War 2 to econoimc competitor. Though they were competing econoimcally, both nations shared a view on working hard and playing hard though each nation is cultarally distinct. This site will explore some of the economic and cultural ideas that drive the both nations while examing how these cultural differences were portrayed in the 80s. Both conctries seems to share the idea that there is something exceptional about it's members that make them destined for success.
 
- United States Exceptionalism drives the free market of capitalism and the idea that an individual works hard for himself and that his own work results in the company staying profitable. His hard work results in his choice in how to spend his leisure time. The Japanese businesses of the 1980s also employed an almost familial bond system that results in a highly structured and hierarchical system. 
+ United States Exceptionalism drives the US leed free markets of capitalism and the idea that an individual works hard for himself and that his own work results in the company staying profitable. His hard work results in his choice in how to spend his leisure time. The Japanese businesses of the 1980s also employed an almost familial bond system that results in a highly structured and hierarchical system. 
 {% endcapture %}
 
 {% include images/figure-wrap.html
