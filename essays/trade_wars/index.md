@@ -30,12 +30,12 @@ Paragraph 1 Provide an introduction paragraph here
 
 Summarize and transition into section below
 
-## Wild Origins and Sacred Uses
+## Humbled Empire to rising nation
 
 {% capture chile_origins_text %}
-Archaeological evidence suggests that wild chiles were used by Mesoamerican peoples for thousands of years before domestication. Unlike staple crops like maize or beans (which were also domesticated), chiles were initially valued for medicinal and ceremonial purposes, not just food.
+All this text will be to the right of a picture below. Japan would go from an enemy defeated by the United States in World War 2 to econoimc competitor in the 1980s. Both nations shared a view on working hard and playing hard though each nationa is cultarully distinct.
 
-The Aztecs called them *chilli*—a word that would travel the world. They appeared in codices as sacred plants, used in rituals and as offerings. But they were also used in cooking, in medicine, as currency. Chiles were woven into the economic and spiritual fabric of pre-Columbian civilizations.
+ United States Exceptionalism drives the free market of capitalism and the idea that an individual works hard for himself and that his own work results in the company staying profitable. His hard work results in his choice in how to spend his leisure time. The Japanese businesses of the 1980s also employed an almost familial bond system that results in a highly structured and hierarchical system. 
 {% endcapture %}
 
 {% include images/figure-wrap.html
