@@ -11,15 +11,15 @@ tabs:
     url: ../
 
   - id: event-1
-    label: Background information
+  label: The Trade War
     url: ../event-1/
 
   - id: event-2
-    label: The US Auto Industry
+    label: Business and Culture
     url: ../event-2/
 
   - id: event-3
-    label: Gung Ho
+    label: Cultural Superpower
     url: ../event-3/
     active: true
 ---

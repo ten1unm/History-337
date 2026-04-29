@@ -1,26 +1,26 @@
 ---
-title: "Trade Wars"
+title: "Cultural impact on the US and Japan post 1980"
 layout: scrollstory-tabs
 header-image: ./images/reagan_japanese_meetings_london_1984.jpg
 header-title: "The US Japan 1980s Trade War"
 thumbnail: images/hippies.jpg
-summary: A history of the US Japan Trade War.
+summary: A history of the US Japan Trade War and its aftermath.
 tabs:
   - id: overview
-    label: Overview of the Trade War
+    label: Overview of the US and Japan during the 1980s
     url: ./
     active: true
 
   - id: event-1
-    label: Background Information
+    label: The Trade War
     url: event-1/
 
   - id: event-2
-    label: The US Auto Industry
+    label: Business and Culture
     url: event-2/
 
   - id: event-3
-    label: Gung Ho
+    label: Cultural Superpower
     url: event-3/
 ---
 
