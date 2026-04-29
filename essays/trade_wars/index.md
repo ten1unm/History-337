@@ -33,34 +33,34 @@ Summarize and transition into section below
 ## Humbled Empire to Rising Nation
 
 {% capture chile_origins_text %}
-From 1945 to 1977, Japan would go from an enemy defeated by the United States in World War 2 to econoimc competitor. Though they were competing econoimcally, both nations shared a view on working hard and playing hard though each nation is cultarally distinct. This site will explore some of the economic and cultural ideas that drive the both nations while examing how these cultural differences were portrayed in the 80s. Both conctries seems to share the idea that there is something exceptional about it's members that make them destined for success.
+From 1945 to the late 1970s, Japan would go from an enemy defeated by the United States in World War 2 to an economic competitor. Though they were competing econoimcally for resources, both nations shared a view on working hard and playing hard even though each nation is cultarally distinct. This site will explore some of the economic and cultural ideas that drive both nations while also examing how these cultural differences were portrayed in the 80s. Both contries seems to share the idea that there is something exceptional about it's members that make them destined for success.
 
- United States Exceptionalism drives the US leed free markets of capitalism and the idea that an individual works hard for himself and that his own work results in the company staying profitable. His hard work results in his choice in how to spend his leisure time. The Japanese businesses of the 1980s also employed an almost familial bond system that results in a highly structured and hierarchical system. 
+ United States Exceptionalism drives the US led free markets of capitalism and the idea that an individual works hard for himself and that his own work results in the company staying profitable. His hard work results in his choice in how to spend his leisure time. The Japanese businesses of the 1980s also employed an almost familial bond system that results in a highly structured and hierarchical system. 
 {% endcapture %}
 
 {% include images/figure-wrap.html
   image-path="images/figure_1.jpg"
   image-position="left"
   image-width="48%"
-  caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
+  caption="!!!Insert text related to the picture here!!!."
   text=chile_origins_text
 %}
 
-{% include typography/pullquote.html text="\"When Spanish conquistadors arrived and encountered chiles for the first time, they didn't know what they'd found: the key ingredient that would reshape global cuisine. They just tasted heat and assumed they were finding something like black pepper.\"" %}
+{% include typography/pullquote.html text="\"THIS IS HOW TO DO BIG QUOTES!!!When Spanish conquistadors arrived and encountered chiles for the first time, they didn't know what they'd found: the key ingredient that would reshape global cuisine. They just tasted heat and assumed they were finding something like black pepper.\"" %}
 
-When Spanish conquistadors arrived in the 16th century, they encountered chiles and assumed they were a kind of pepper—similar to the peppercorns that had driven medieval trade routes and wars. This mistake—this linguistic confusion—would matter enormously.
+When Spanish conquistadors arrived in the 16th century, they encountered chiles and assumed they were a kind of pepper—similar to the peppercorns that had driven medieval trade routes and wars. This mistake—this linguistic confusion—would matter enormously. THIS IS HOW IT LOOKS WITHOUT THE QUOTES!!!
 
 
-## The Global Circulation
+## Sub header 2
 
-The Spanish brought chiles back to Europe, from Europe to Asia, and eventually chiles spread around the world. Within two centuries of Columbus, chiles were growing in India, Hungary, Korea, Thailand—places that now consider them indigenous, essential, defining.
+ This is just a paragraph of text section, no pictures or big quotes!!! The Spanish brought chiles back to Europe, from Europe to Asia, and eventually chiles spread around the world. Within two centuries of Columbus, chiles were growing in India, Hungary, Korea, Thailand—places that now consider them indigenous, essential, defining.
 
 This is one of history's greatest ironies: the cuisines we think of as authentically Asian, Hungarian, or Indian all depend on a plant from the Americas. Today, more chiles are consumed in Asia than anywhere else on Earth, yet hardly anyone thinks of chiles as "Asian."
 
 The Southwest, however, kept them close. When Spanish settlers began colonizing New Mexico in the late 1500s, they brought cultivated chile varieties with them. These adapted to the high desert climate, the intense sun, the seasonal rains. Over centuries, New Mexico developed its own distinctive chile varieties.
 
 
-## The New Mexican Obsession
+## Sub header 3
 
 {% capture chile_nm_text %}
 By the 18th and 19th centuries, chiles were so central to New Mexican cuisine that they weren't just a spice—they were an identity marker. You could tell where someone was from by how they prepared chiles, what variety they grew, when they harvested.
@@ -79,7 +79,7 @@ When New Mexico became a U.S. state in 1912, one of its first instincts was to a
 %}
 
 
-## The Chemistry of Heat and Culture
+## Sub header 4
 
 {% include typography/pullquote.html text="\"The heat of a chile isn't just a flavor sensation. It's a physical experience that changes how we perceive food, how we gather, how we bond. Sharing hot food creates a kind of intimacy that bland food never could.\"" %}
 
@@ -88,9 +88,9 @@ What makes chiles remarkable isn't just their flavor, but their heat—the capsa
 There's psychology in this. The shared experience of eating something hot—the sweating, the laughing, the communal endurance—creates bonds. Chile-eating contests, chile-eating challenges, families bonding over who can handle the hottest salsa: this is social behavior built on a plant that literally tests your limits.
 
 
-## Modern Variations and Challenges
+## Sub Header 5
 
-Today, New Mexican chiles face challenges. Climate change is shifting growing seasons. Industrial agriculture has made cheaper, flavorless chiles available everywhere, undercutting local farmers. Younger generations are moving away from rural areas where chiles have been grown for generations.
+EXAMPLE OF TEXT, PICTURE, and BULLET POINTS!!! Today, New Mexican chiles face challenges. Climate change is shifting growing seasons. Industrial agriculture has made cheaper, flavorless chiles available everywhere, undercutting local farmers. Younger generations are moving away from rural areas where chiles have been grown for generations.
 
 But there's also a renaissance. Heirloom chile varieties are being preserved and celebrated. New restaurants are treating chiles with the seriousness of a wine vintage—specific growing regions, specific varieties, specific preparation methods.
 
@@ -120,4 +120,4 @@ The heat remains. The flavor remains. The chile endures.
 
 ---
 
-**Further exploration:** Insert additional weblinks and resources here!
+**Further exploration:** Insert additional weblinks and resources here!!!
