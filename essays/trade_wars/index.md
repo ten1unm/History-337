@@ -20,7 +20,7 @@ tabs:
     url: event-2/
 
   - id: event-3
-    label: The Plaza Accord
+    label: Gung Ho
     url: event-3/
 ---
 

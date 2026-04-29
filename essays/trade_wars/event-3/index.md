@@ -2,7 +2,7 @@
 title: "Hippies"
 layout: scrollstory-tabs
 header-image: ../images/hippies.jpg
-header-title: "The Plaza Accord"
+header-title: "Getting Gung Ho"
 thumbnail: ../images/hippies.jpg
 summary: A history of the Hippie Movement.
 tabs:
@@ -11,7 +11,7 @@ tabs:
     url: ../
 
   - id: event-1
-    label: Background infomation
+    label: Background information
     url: ../event-1/
 
   - id: event-2
@@ -19,7 +19,7 @@ tabs:
     url: ../event-2/
 
   - id: event-3
-    label: The Plaza Accord
+    label: Gung Ho
     url: ../event-3/
     active: true
 ---

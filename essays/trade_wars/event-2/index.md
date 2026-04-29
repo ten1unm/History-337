@@ -11,7 +11,7 @@ tabs:
     url: ../
 
   - id: event-1
-    label: Background infomation
+    label: Background information
     url: ../event-1/
 
   - id: event-2
@@ -20,11 +20,11 @@ tabs:
     active: true
     
   - id: event-3
-    label: The Plaza Accord
+    label: Gung Ho
     url: ../event-3/
 ---
 
-# Autoindustry impact
+# Auto industry impact
 
 From wild origins in the Mexican highlands to cultivation across the globe, geography has shaped every aspect of chile culture.
 
