@@ -2,7 +2,7 @@
 title: "Cultural impact on the US and Japan post 1980"
 layout: scrollstory-tabs
 header-image: ./images/reagan_japanese_meetings_london_1984.jpg
-header-title: "The US Japan 1980s Trade War"
+header-title: "US Japan Cultural legacies from the 1980s"
 thumbnail: images/hippies.jpg
 summary: A history of the US Japan Trade War and its aftermath.
 tabs:

@@ -2,7 +2,7 @@
 title: "Hippies"
 layout: scrollstory-tabs
 header-image: ../images/hippies.jpg
-header-title: "Getting Gung Ho"
+header-title: "Content for global consumption"
 thumbnail: ../images/hippies.jpg
 summary: A history of the Hippie Movement.
 tabs:

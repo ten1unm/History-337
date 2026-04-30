@@ -2,7 +2,7 @@
 title: "Hippies"
 layout: scrollstory-tabs
 header-image: /nakasone_and_reagan_reviewing_troops_at_arrival_ceremony_at_palace_in_tokyo_japan_may_4_1986.jpg
-header-title: "The American Automotive Industry"
+header-title: "Getting Gung Ho"
 thumbnail: /nakasone_and_reagan_reviewing_troops_at_arrival_ceremony_at_palace_in_tokyo_japan_may_4_1986.jpg
 summary: A history of the Hippie Movement
 tabs:
