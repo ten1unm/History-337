@@ -51,7 +51,7 @@ From 1945 to the late 1970s, Japan would go from an enemy defeated by the United
 When Spanish conquistadors arrived in the 16th century, they encountered chiles and assumed they were a kind of pepper—similar to the peppercorns that had driven medieval trade routes and wars. This mistake—this linguistic confusion—would matter enormously. THIS IS HOW IT LOOKS WITHOUT THE QUOTES!!!
 
 
-## Sub header 2
+## Cultures clashing
 
  This is just a paragraph of text section, no pictures or big quotes!!! The Spanish brought chiles back to Europe, from Europe to Asia, and eventually chiles spread around the world. Within two centuries of Columbus, chiles were growing in India, Hungary, Korea, Thailand—places that now consider them indigenous, essential, defining.
 
@@ -63,7 +63,7 @@ The Southwest, however, kept them close. When Spanish settlers began colonizing 
 ## Sub header 3
 
 {% capture chile_nm_text %}
-By the 18th and 19th centuries, chiles were so central to New Mexican cuisine that they weren't just a spice—they were an identity marker. You could tell where someone was from by how they prepared chiles, what variety they grew, when they harvested.
+This text will appear next to the picture!!! By the 18th and 19th centuries, chiles were so central to New Mexican cuisine that they weren't just a spice—they were an identity marker. You could tell where someone was from by how they prepared chiles, what variety they grew, when they harvested.
 
 Red versus green became almost a political and cultural statement. Families had chile-growing traditions stretching back generations. Towns developed reputations for particular varieties. The annual chile harvest was (and still is) treated with ceremonial importance.
 
@@ -74,7 +74,7 @@ When New Mexico became a U.S. state in 1912, one of its first instincts was to a
   image-path="images/carousel_1.jpg"
   image-position="right"
   image-width="45%"
-  caption="The iconic red chile ristras of Northern New Mexico—strands of dried chiles hung to cure and age."
+  caption="Replace this text with image description!!!"
   text=chile_nm_text
 %}
 
