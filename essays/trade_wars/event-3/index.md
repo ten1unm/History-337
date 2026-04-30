@@ -11,7 +11,7 @@ tabs:
     url: ../
 
   - id: event-1
-    Label: The Trade War
+    label: The Trade War
     url: ../event-1/
 
   - id: event-2
