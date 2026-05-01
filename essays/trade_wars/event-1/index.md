@@ -27,7 +27,7 @@ tabs:
 
 # The 1980s US Japan Trade war
 
-# 1980s Timeline
+## 1980s Timeline
 
 **~1980 CE** — Words on what happpened this year.
 
