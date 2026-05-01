@@ -25,9 +25,13 @@ tabs:
     url: ../event-3/
 ---
 
-# 1980s US Japan Trade War
+# 1980s US Japan Trade Time Line
 
-The story of chiles is fundamentally a story of people—farmers, traders, cooks, and communities who recognized something special in this fiery plant and made it their own.
+**~1980 CE** — Words on what happpened this year.
+
+**~1985 CE** — Words on what happpened this year.
+
+**~1987 CE** — Words on what happpened this year.
 
 ## Energy Crisis fall out
 
