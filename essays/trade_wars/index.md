@@ -26,9 +26,9 @@ tabs:
 
 # Overview of the the 80s US Japanese Trade War
 
-Paragraph 1 Provide an introduction paragraph here 
+The United States and Japan share a “work hard, play hard” mindset that is culturally distinct. United States Exceptionalism drives the free market of capitalism and the idea that an individual works hard for himself and that his own work results in the company staying profitable. His hard work results in his choice in how to spend his leisure time. The Japanese businesses of the 1980s also employed an almost familial bond system that results in a highly structured and hierarchical system. By comparing these business styles in the 1980s “Trade War” and beyond , what emerges as we explore how Japanese culture influenced the US from the 1980s to the 2020s in ways beyond business.
 
-Summarize and transition into section below
+The different business styles used by America and Japan would result in the US auto industry following behind in production which produced an anti-Japanese sentiment felt in Detroit first through the automotive industry, but eventually spreading to a national level as the Nations enter a trade war built on perceive inequalities in trade. [^1]
 
 ## Humbled Empire to Rising Nation
 
@@ -121,3 +121,5 @@ The heat remains. The flavor remains. The chile endures.
 ---
 
 **Further exploration:** Insert additional weblinks and resources here!!!
+
+[^1] Reagan, Ronald, "Radio Address to the Nation on Free and Fair Trade", Camp David, April 25, 1987.
