@@ -29,11 +29,13 @@ tabs:
 
 ## 1980s Timeline
 
-**~1980 CE** — Words on what happpened this year.
+**~1973 CE** — 1st Oil Crisis following OPEC embargon on Isreal allies after Yom Kipur War. 
 
-**~1985 CE** — Words on what happpened this year.
+**~1979 CE** — 2nd Oil Crisis. Iranian revolution and decreased production.
 
-**~1987 CE** — Words on what happpened this year.
+**~1985 CE** — The Plaza Accords
+
+**~1987 CE** — WReagan's speech on Tariffs
 
 ## Energy Crisis fall out
 
