@@ -73,20 +73,18 @@ There are fundamental aspects of culture that American and Japan differ in that 
 %}
 
 
-## Sub header 4
+## Going global, The Lasting Impacts of the 80s
 
-{% include typography/pullquote.html text="\"The heat of a chile isn't just a flavor sensation. It's a physical experience that changes how we perceive food, how we gather, how we bond. Sharing hot food creates a kind of intimacy that bland food never could.\"" %}
+{% include typography/pullquote.html text="\"TINSERT A REALLY COOL QUOTE HERE!!!.\"" %}
 
 What makes chiles remarkable isn't just their flavor, but their heat—the capsaicin that creates that burning sensation. This isn't taste in the traditional sense; it's pain. We've evolved to eat chiles despite the pain, even to crave it.
 
 There's psychology in this. The shared experience of eating something hot—the sweating, the laughing, the communal endurance—creates bonds. Chile-eating contests, chile-eating challenges, families bonding over who can handle the hottest salsa: this is social behavior built on a plant that literally tests your limits.
 
 
-## Sub Header 5
+## Sub Header 5 USE IF NEEDED
 
-EXAMPLE OF TEXT, PICTURE, and BULLET POINTS!!! Today, New Mexican chiles face challenges. Climate change is shifting growing seasons. Industrial agriculture has made cheaper, flavorless chiles available everywhere, undercutting local farmers. Younger generations are moving away from rural areas where chiles have been grown for generations.
-
-But there's also a renaissance. Heirloom chile varieties are being preserved and celebrated. New restaurants are treating chiles with the seriousness of a wine vintage—specific growing regions, specific varieties, specific preparation methods.
+EXAMPLE OF TEXT, PICTURE, and BULLET POINTS!!!
 
 The carousel below shows the diversity of modern chile culture:
 
@@ -101,16 +99,6 @@ The carousel below shows the diversity of modern chile culture:
 
 Each represents a different moment in the chile's journey from wild plant to cultural icon.
 
-
-## The Future of Southwest Identity
-
-As the Southwest changes—becoming more urban, more diverse, more connected to global food systems—what happens to the chile? Will it remain a marker of regional identity, or become just another ingredient?
-
-The answer might be both. Chiles have always adapted. They adapted to every continent, every climate, every cuisine that adopted them. They adapted from wild plants to cultivated varieties to industrial agriculture to heirloom preservation. They've been spice, currency, medicine, ritual object, and comfort food.
-
-Maybe that adaptability is the real story. Not the origin in Mexico or the spread through the world or the obsession in New Mexico, but the fact that a plant can be shaped and reshaped by human culture while still remaining fundamentally itself.
-
-The heat remains. The flavor remains. The chile endures.
 
 ---
 
