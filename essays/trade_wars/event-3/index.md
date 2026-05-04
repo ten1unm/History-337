@@ -24,48 +24,34 @@ tabs:
     active: true
 ---
 
-# Absorption into New Age
+# Videogames, Music, and Anime
 
-From ancient cultivation to modern cuisine, the chile's journey spans thousands of years.
+ As Japan shifted to an economic superpower in the 80s, it also shifted to a cultural super power in the realms of animation (anime) and consumer electronics.[^1]  Tokyo had risen as a New York City of the Far east, “leading production as a cosmopolitan city with an affluent younger generation”.[^2] The modern video game industry came from Japan, popular Japanese animation such as studio Ghibli, and music like J-Pop and City Pop. These industries would go on to influence the world as a form of its soft power diplomacy. [^3]
 
-## Ancient History (7500 BCE – 1400 CE)
+## Nintendo and Japanese videogame Dominance
 
-**~7500 BCE** — Archaeological evidence suggests domestication of chiles begins in Mexico, making them one of the oldest cultivated crops in the Americas.
-
-**~3000 BCE** — Chiles become integrated into Mesoamerican agriculture alongside maize, beans, and squash.
-
-**~1400 CE** — By the height of the Aztec Empire, chiles are essential to cuisine, medicine, and trade. Multiple varieties are cultivated for different purposes.
+Though Semi-conductors were part of Reagan’s April 25th, 1987, tariff speech  example of Japanese violation of the trade agreements, the Nintendo company was in full pursuit of the creation of the modern video game industry with the Family Console (Famicon) which became the Nintendo Entertainment System (NES) when exported to America. By 1988, Times magazine reported the “Nintendo” as the number one wish list item.  And 35 years later, the Japanese companies Nintendo and Sony continue to dominate the global video game industry, which generated sixty-six billion dollars of the 2023US Gross Domestic Production. INSERT IMAGE!!!
 
 {% include images/figure-wrap.html
   image-path="../images/figure_1.jpg"
   image-position="left"
   image-width="50%"
-  caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
+  caption="Nintendo Circuitboard."
   text=chile_origins_text
 %}
 
-## Colonial Era (1492 – 1800)
+## Anime cultural impact beyond the 80s
 
-**1492** — Columbus encounters chiles in the Caribbean and mistakenly calls them "peppers," confusing them with black pepper.
+The 1980s also saw the first westernization of Japanese Anime as they were imported to the West. The VHS allowed for easier importing and viewing of shows and by the late 2000s, online streaming would become another means for watching Japanese media directly.  Anime, such as Robotech, gave Americans exposure to animated war, using intense battles for action but also showing the human cost of war. 
 
-**1493** — Chiles arrive in Spain, beginning their global spread.
+## Conclusion
 
-**1598** — Spanish colonists bring cultivated chile varieties to New Mexico along the Camino Real.
-
-**1600s–1700s** — Chiles spread through Africa, Asia, and Europe, transforming cuisines worldwide.
-
-## Modern Era (1800 – Present)
-
-**1912** — Wilbur Scoville develops the Scoville Scale to measure chile heat.
-
-**1912** — New Mexico becomes a state; chile culture becomes a marker of regional identity.
-
-**1970s–1980s** — The Hatch Chile Festival begins, cementing New Mexico's reputation as the chile capital of America.
-
-**2000s** — Heirloom chile preservation movements gain momentum as industrial agriculture threatens genetic diversity.
-
-**Present** — Climate change challenges traditional growing regions while new varieties and cultivation techniques continue to evolve.
+Insert a great ending here
 
 ---
 
 The story of the chile is still being written.
+
+[^1]:Stalker, Nancy K. Japan : History and Culture from Classical to Cool, University of California Press, 2018. ProQuest Ebook Central, https://ebookcentral.proquest.com/lib/unm/detail.action?docID=5435806, 362-363.
+[^2]: Uchiyama, Yosuke, Md Nasrudin Md Akhir, Fumitaka Furuoka, Yuanzhu Wang, and Larisa Nikitina. “Cultural Re-Importation through Soft Power and Transnational Cultural Flows Mediated by Digital Influence: The Case of City Pop Music in Japan, Malaysia and Indonesia.” Japan Forum 36, no. 5 (2024): 584–585. https://doi-org.libproxy.unm.edu/10.1080/09555803.2024.2407774.
+[^3] Uchiyama et al, Cultural Re-importation, 582.
