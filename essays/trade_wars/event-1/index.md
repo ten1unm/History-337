@@ -35,7 +35,7 @@ tabs:
 
 **~1985 CE** — The Plaza Accords
 
-**~1987 CE** — WReagan's speech on Tariffs
+**~1987 CE** — Reagan's speech on Tariffs
 
 ## Energy Crisis fall out
 
