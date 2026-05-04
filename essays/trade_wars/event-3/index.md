@@ -56,6 +56,6 @@ Insert a great ending here
 
 The story of the chile is still being written.
 
-[^1]:Stalker, Nancy K. Japan : History and Culture from Classical to Cool, University of California Press, 2018. ProQuest Ebook Central, https://ebookcentral.proquest.com/lib/unm/detail.action?docID=5435806, 362-363.
+[^1]:Stalker, Nancy K. Japan : History and Culture from Classical to Cool, University of California Press, 2018. ProQuest Ebook Central,https://ebookcentral.proquest.com/lib/unm/detail.action?docID=5435806, 362-363.
 [^2]: Uchiyama, Yosuke, Md Nasrudin Md Akhir, Fumitaka Furuoka, Yuanzhu Wang, and Larisa Nikitina. “Cultural Re-Importation through Soft Power and Transnational Cultural Flows Mediated by Digital Influence: The Case of City Pop Music in Japan, Malaysia and Indonesia.” Japan Forum 36, no. 5 (2024): 584–585. https://doi-org.libproxy.unm.edu/10.1080/09555803.2024.2407774.
 [^3]: Uchiyama et al, Cultural Re-importation, 582.
