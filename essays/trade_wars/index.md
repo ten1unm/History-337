@@ -58,14 +58,10 @@ As America was exiting the energy crisis of the late 1970s, Japan was starting i
  In  this essay, I will explore how this Japanese stereotype is portrayed and how there is an American stereotype based on the idea Exceptionalism that clashes against the core ideas within Japanese identity.
 
 
-## Sub header 3
+## Business
 
 {% capture chile_nm_text %}
-This text will appear next to the picture!!! By the 18th and 19th centuries, chiles were so central to New Mexican cuisine that they weren't just a spice—they were an identity marker. You could tell where someone was from by how they prepared chiles, what variety they grew, when they harvested.
-
-Red versus green became almost a political and cultural statement. Families had chile-growing traditions stretching back generations. Towns developed reputations for particular varieties. The annual chile harvest was (and still is) treated with ceremonial importance.
-
-When New Mexico became a U.S. state in 1912, one of its first instincts was to assert its uniqueness through food. Chile festivals emerged. Chile-growing competitions began. The chile became a symbol of regional pride—fiercer and more protective than almost any other ingredient anywhere.
+There are fundamental aspects of culture that American and Japan differ in that leads to their business styles having to account for them when interacting. The nature of Buy American itself was acknowledged to possibly produce an anti-Asian sentiment within the United Autoworkers Union but American outrage at the Japanese producing more cars was met with the reality that American consumers were recovering from the  1970’s oil crisis and therefore wanted a more fuel-efficient car.  
 {% endcapture %}
 
 {% include images/figure-wrap.html
