@@ -24,11 +24,11 @@ tabs:
     url: ../event-3/
 ---
 
-# Auto industry impact
+# Japanese and American Cultural clashes in business
 
 From wild origins in the Mexican highlands to cultivation across the globe, geography has shaped every aspect of chile culture.
 
-## Mesoamerican Origins
+## Business or Family? Is it Both?
 
 Archaeological evidence points to the highlands of central Mexico as the birthplace of chile cultivation. Wild chiles still grow in these regions, their small, intensely hot fruits carried by birds who are immune to capsaicin. The volcanic soils and seasonal rainfall patterns of these areas created ideal conditions for the chile's evolution.
 
@@ -40,13 +40,13 @@ Archaeological evidence points to the highlands of central Mexico as the birthpl
   text=chile_origins_text
 %}
 
-## The Rio Grande Valley
+## The American Autoworkers Union and ideals of independence
 
 When chiles arrived in what is now New Mexico, they found a new home in the Rio Grande Valley. The combination of high elevation, intense sunlight, cool nights, and irrigation from the river created conditions that produced uniquely flavorful chiles.
 
 Towns like Hatch, Chimayó, and Española became synonymous with chile cultivation. Each developed distinct varieties adapted to local microclimates, creating a patchwork of regional flavors.
 
-## The Global Journey
+## Japan Inc and it’s lasting impacts
 
 Within two centuries of Columbus, chiles had spread to nearly every continent. They found new homes in:
 - **India and Thailand**, where they transformed regional cuisines
@@ -56,6 +56,6 @@ Within two centuries of Columbus, chiles had spread to nearly every continent. T
 
 Each place shaped the chile, selecting for different characteristics and integrating it into local food cultures.
 
-## Modern Growing Regions
+## Section Conclusion in work
 
 Today, commercial chile production spans from New Mexico to California, from China to India. Climate change is shifting growing regions, pushing cultivation to new altitudes and latitudes as traditional areas become too hot or dry.
