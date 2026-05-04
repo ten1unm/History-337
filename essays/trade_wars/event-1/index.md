@@ -51,19 +51,23 @@ During the 1980s, the United States and Japan engaged in trade agreement and dis
 [^1]
 These early cultivators created the genetic foundation for every chile variety we know today. Their knowledge of when to plant, how to harvest, and which plants to save seeds from represented generations of accumulated wisdom.
 
-## Rising Sun in the East
+## Attack on the Auto industry
 
-When Spanish colonizers arrived in the Americas, Franciscan missionaries and early settlers recognized the value of chiles almost immediately. They brought cultivated varieties northward along the Camino Real, establishing chile cultivation in what is now New Mexico by the late 1500s.
+Beginning in the late 1970s, the Japanese started making serious gains on the American Car market. The once proud American auto workers lost over 270,000 jobs from 1978 to 1981.[^4]  This increase in unemployment built a resentment towards the Japanese and then also towards those of Asian descent. The United Auto Workers (UAW) even shifted this anger on members who bought imports. [^5] The impacts on the automotive industry will elaborate on more in the Auto Industry
 
-These settlers adapted their growing techniques to the high desert climate, developing irrigation systems and cultivation practices that would define New Mexican agriculture for centuries.
-
-## American Backlash
+## Gung Ho (1986) movie
 
 Today, a new generation of farmers works to preserve heirloom chile varieties while also developing new cultivars suited to changing conditions. Organizations dedicated to seed preservation ensure that rare varieties don't disappear, while agricultural researchers work to understand the genetics of heat, flavor, and disease resistance.
 
-The people of the chile continue to shape its story.
+
+## The Trades War’s Cultural Impact
+
+
+
 
 [^1]:In this photo members of the United Autoworkers Local 588 of the Ford Motor Co. stamping plant wield sledgehammers and bars on a 1975 Toyota Corolla March 3, 1981, during a rally against buying foreign-made products in Chicago Heights, IL. Japanese auto and government officials in 2005 are worried about a replay of the "Japan-bashing" trade friction of the 1980s, when Toyota and others were blamed for stealing car sales and U.S. jobs, prompting outraged auto workers to smash Japanese cars in protest. (AP Photo/Str)
 https://www.alamy.com/in-this-photo-members-of-the-united-autoworkers-local-588-of-the-ford-motor-co-stamping-plant-wield-sledgehammers-and-bars-on-a-1975-toyota-corolla-march-3-1981-during-a-rally-against-buying-foreign-made-products-in-chicago-heights-il-japanese-auto-and-government-officials-in-2005-are-worried-about-a-replay-of-the-japan-bashing-trade-friction-of-the-1980s-when-toyota-and-others-were-blamed-for-stealing-car-sales-and-us-jobs-prompting-outraged-auto-workers-to-smash-japanese-cars-in-protest-ap-photostr-image526411750.html
 [^2]:Morrison, Wayne M. & Villarreal, M. Angeles. “Japan-U.S. Trade: A Chronology of Major Events, 1980-1990, report, June 20, 1991”; Washington D.C, CRS-5.
 [^3]:Morrison, Wayne M. & Villarreal, M. Angeles. “Japan-U.S. Trade: A Chronology of Major Events, 1980-1990, report, June 20, 1991”; Washington D.C, CRS-6.
+[^4]:Frank, Dana “Demons in the Parking Lot: Auto Workers, Buy American Campaigns, and the “Japanese Threat” in the 1980s”, Amerasia Journal, 28:3, 34  (2002)  DOI:10.17953/amer.28.3.p74875252957n722
+[^5]:Frank, Dana “Demons in the Parking Lot: Auto Workers, Buy American Campaigns, and the “Japanese Threat” in the 1980s”, Amerasia Journal, 28:3, 36, (2002)  DOI:10.17953/amer.28.3.p74875252957n722
