@@ -122,4 +122,4 @@ The heat remains. The flavor remains. The chile endures.
 
 **Further exploration:** Insert additional weblinks and resources here!!!
 
-[^1] Reagan, Ronald, "Radio Address to the Nation on Free and Fair Trade", Camp David, April 25, 1987.
+[^1]: Reagan, Ronald, "Radio Address to the Nation on Free and Fair Trade", Camp David, April 25, 1987.
