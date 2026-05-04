@@ -28,6 +28,10 @@ tabs:
 
  As Japan shifted to an economic superpower in the 80s, it also shifted to a cultural super power in the realms of animation (anime) and consumer electronics.[^1]  Tokyo had risen as a New York City of the Far east, “leading production as a cosmopolitan city with an affluent younger generation”.[^2] The modern video game industry came from Japan, popular Japanese animation such as studio Ghibli, and music like J-Pop and City Pop. These industries would go on to influence the world as a form of its soft power diplomacy. [^3]
 
+## City pop music
+
+word words words
+
 ## Nintendo and Japanese videogame Dominance
 
 Though Semi-conductors were part of Reagan’s April 25th, 1987, tariff speech  example of Japanese violation of the trade agreements, the Nintendo company was in full pursuit of the creation of the modern video game industry with the Family Console (Famicon) which became the Nintendo Entertainment System (NES) when exported to America. By 1988, Times magazine reported the “Nintendo” as the number one wish list item.  And 35 years later, the Japanese companies Nintendo and Sony continue to dominate the global video game industry, which generated sixty-six billion dollars of the 2023US Gross Domestic Production. INSERT IMAGE!!!
@@ -54,4 +58,4 @@ The story of the chile is still being written.
 
 [^1]:Stalker, Nancy K. Japan : History and Culture from Classical to Cool, University of California Press, 2018. ProQuest Ebook Central, https://ebookcentral.proquest.com/lib/unm/detail.action?docID=5435806, 362-363.
 [^2]: Uchiyama, Yosuke, Md Nasrudin Md Akhir, Fumitaka Furuoka, Yuanzhu Wang, and Larisa Nikitina. “Cultural Re-Importation through Soft Power and Transnational Cultural Flows Mediated by Digital Influence: The Case of City Pop Music in Japan, Malaysia and Indonesia.” Japan Forum 36, no. 5 (2024): 584–585. https://doi-org.libproxy.unm.edu/10.1080/09555803.2024.2407774.
-[^3] Uchiyama et al, Cultural Re-importation, 582.
+[^3]: Uchiyama et al, Cultural Re-importation, 582.
