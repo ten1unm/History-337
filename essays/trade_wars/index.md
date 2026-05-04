@@ -73,13 +73,11 @@ There are fundamental aspects of culture that American and Japan differ in that 
 %}
 
 
-## Going global, The Lasting Impacts of the 80s
+## Going Global: The Lasting Impacts of the 80s
 
-{% include typography/pullquote.html text="\"TINSERT A REALLY COOL QUOTE HERE!!!.\"" %}
+{% include typography/pullquote.html text="\"INSERT A REALLY COOL QUOTE HERE!!!.\"" %}
 
-What makes chiles remarkable isn't just their flavor, but their heat—the capsaicin that creates that burning sensation. This isn't taste in the traditional sense; it's pain. We've evolved to eat chiles despite the pain, even to crave it.
-
-There's psychology in this. The shared experience of eating something hot—the sweating, the laughing, the communal endurance—creates bonds. Chile-eating contests, chile-eating challenges, families bonding over who can handle the hottest salsa: this is social behavior built on a plant that literally tests your limits.
+Thirty years after the countries trade war ended, Japan would continue to have a lasting impact on American Culture. From business practices, entertainment and exported cars, Japan continues to exert its cultural soft power on the US. The underlying racial tension that existed in the 1980s has decreased in certain groups from a better understanding within certain entertainment industries, such as videogames and anime, as the US increased consumption of Japanese media.
 
 
 ## Sub Header 5 USE IF NEEDED
