@@ -53,7 +53,9 @@ When Spanish conquistadors arrived in the 16th century, they encountered chiles 
 
 ## Cultures clashing since WW2
 
- 	As America was exiting the energy crisis of the late 1970s, Japan was starting its rise to economic superpower as it doubled automobile production and exported 40% of them to the US. [^2]  In there midst of this rise, racism towards the Japanese, being seen as a former enemy of the US during World War 2, was also prevalent in the America. This discrimination has been around since the first- and second-generation Japanese started moving into America and continues in the stereotyping portrayal of the Japanese in US media. [^3][^4]   In  this essay, I will explore how this Japanese stereotype is portrayed and how there is an American stereotype based on the idea Exceptionalism that clashes against the core ideas within Japanese identity.
+ 	As America was exiting the energy crisis of the late 1970s, Japan was starting its rise to economic superpower as it doubled automobile production and exported 40% of them to the US. [^2] In there midst of this rise, racism towards the Japanese, being seen as a former enemy of the US during World War 2, was also prevalent in the America. This discrimination has been around since the first- and second-generation Japanese started moving into America and continues in the stereotyping portrayal of the Japanese in US media. [^3][^4]   
+  
+  In  this essay, I will explore how this Japanese stereotype is portrayed and how there is an American stereotype based on the idea Exceptionalism that clashes against the core ideas within Japanese identity.
 
 
 ## Sub header 3
