@@ -51,13 +51,9 @@ From 1945 to the late 1970s, Japan would go from an enemy defeated by the United
 When Spanish conquistadors arrived in the 16th century, they encountered chiles and assumed they were a kind of pepper—similar to the peppercorns that had driven medieval trade routes and wars. This mistake—this linguistic confusion—would matter enormously. THIS IS HOW IT LOOKS WITHOUT THE QUOTES!!!
 
 
-## Cultures clashing
+## Cultures clashing since WW2
 
- This is just a paragraph of text section, no pictures or big quotes!!! The Spanish brought chiles back to Europe, from Europe to Asia, and eventually chiles spread around the world. Within two centuries of Columbus, chiles were growing in India, Hungary, Korea, Thailand—places that now consider them indigenous, essential, defining.
-
-This is one of history's greatest ironies: the cuisines we think of as authentically Asian, Hungarian, or Indian all depend on a plant from the Americas. Today, more chiles are consumed in Asia than anywhere else on Earth, yet hardly anyone thinks of chiles as "Asian."
-
-The Southwest, however, kept them close. When Spanish settlers began colonizing New Mexico in the late 1500s, they brought cultivated chile varieties with them. These adapted to the high desert climate, the intense sun, the seasonal rains. Over centuries, New Mexico developed its own distinctive chile varieties.
+ 	As America was exiting the energy crisis of the late 1970s, Japan was starting its rise to economic superpower as it doubled automobile production and exported 40% of them to the US. [^2]  In there midst of this rise, racism towards the Japanese, being seen as a former enemy of the US during World War 2, was also prevalent in the America. This discrimination has been around since the first- and second-generation Japanese started moving into America and continues in the stereotyping portrayal of the Japanese in US media. [^3][^4]   In  this essay, I will explore how this Japanese stereotype is portrayed and how there is an American stereotype based on the idea Exceptionalism that clashes against the core ideas within Japanese identity.
 
 
 ## Sub header 3
@@ -123,3 +119,6 @@ The heat remains. The flavor remains. The chile endures.
 **Further exploration:** Insert additional weblinks and resources here!!!
 
 [^1]: Reagan, Ronald, "Radio Address to the Nation on Free and Fair Trade", Camp David, April 25, 1987.
+[^2]:Stalker, Nancy K. Japan : History and Culture from Classical to Cool, University of California Press, 2018. ProQuest Ebook Central, https://ebookcentral.proquest.com/lib/unm/detail.action?docID=5435806, 362-363.
+[^3]: Endo, Russell. The Current Status of Japanese Americans. June 1st, 1985. 3, EBSCOhost.
+[^4]:Endo, Russell. The Current Status of Japanese Americans, 9.
