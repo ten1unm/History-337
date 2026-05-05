@@ -1,9 +1,9 @@
 ---
 title: "Hippies"
 layout: scrollstory-tabs
-header-image: ../images/hippies.jpg
+header-image: ../gungho1.jpg
 header-title: "Getting Gung Ho"
-thumbnail: ../images/hippies.jpg
+thumbnail: ../images/gungho1.jpg
 summary: A history of the Hippie Movement
 tabs:
   - id: overview
@@ -25,6 +25,7 @@ tabs:
 ---
 
 # Japanese and American Cultural clashes in business
+[^1]
 
 From wild origins in the Mexican highlands to cultivation across the globe, geography has shaped every aspect of chile culture.
 
@@ -59,3 +60,5 @@ Each place shaped the chile, selecting for different characteristics and integra
 ## Section Conclusion in work
 
 Today, commercial chile production spans from New Mexico to California, from China to India. Climate change is shifting growing regions, pushing cultivation to new altitudes and latitudes as traditional areas become too hot or dry.
+
+[^1]: Howard, Ron, Director. Gung Ho. Paramount, 1986. 00:00:40.
