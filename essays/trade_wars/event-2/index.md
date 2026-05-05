@@ -50,8 +50,17 @@ But the fact that the Japanese had efficient systems to run their business was n
 
 
 ## Japan Inc and it’s lasting impacts
-
+{% capture chile_nm_text %}
 Looking at the Japanese Manga “Japan Inc”, a sort of practical comic with economic and business information at the end of each section, there is an acknowledgement that Japan’s economic might had vulnerabilities. [^7] Japan Inc, as a “Benkyou Manga” (Study Comic) provided a way for high schoolers and college students to study economics while following a story about Japanese companies, Union battles and national Politicians working various trade deals. The Manga was a way to inform Japanese readers that, foreign and their own government can lie, manipulate their currencies, tariff products and restrict trade as part of a Trade War to reach their national goals.[^8]
+{% endcapture %}
+
+{% include images/figure-wrap.html
+  image-path="images/japn_inc4.jpg"
+  image-position="right"
+  image-width="45%"
+  caption="Japan Inc potrays the fear of economic uncertainty"
+  text=chile_nm_text
+%}
 
 ## Section Conclusion in work
 
