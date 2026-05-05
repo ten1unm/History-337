@@ -46,9 +46,7 @@ From 1945 to the late 1970s, Japan would go from an enemy defeated by the United
   text=chile_origins_text
 %}
 
-{% include typography/pullquote.html text="\"THIS IS HOW TO DO BIG QUOTES!!!When Spanish conquistadors arrived and encountered chiles for the first time, they didn't know what they'd found: the key ingredient that would reshape global cuisine. They just tasted heat and assumed they were finding something like black pepper.\"" %}
-
-When Spanish conquistadors arrived in the 16th century, they encountered chiles and assumed they were a kind of pepper—similar to the peppercorns that had driven medieval trade routes and wars. This mistake—this linguistic confusion—would matter enormously. THIS IS HOW IT LOOKS WITHOUT THE QUOTES!!!
+{% include typography/pullquote.html text="\"As we explore the 1980s through business, film and mdea, what are some of US Japan Cultural legacies.\"" %}
 
 
 ## Cultures clashing since WW2

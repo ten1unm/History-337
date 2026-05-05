@@ -15,7 +15,7 @@ tabs:
     url: ../event-1/
 
   - id: event-2
-    label: The US Auto Industry
+    label: Business and Culture
     url: ../event-2/
     active: true
     
