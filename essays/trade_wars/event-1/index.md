@@ -32,7 +32,7 @@ tabs:
 **~1973 CE** — 1st Oil Crisis following OPEC embargon on Isreal allies after Yom Kipur War. 
 **~1979 CE** — 2nd Oil Crisis. Iranian revolution and decreased production.
 **~1985 CE** — The Plaza Accords,
-**~1986 CE** — Gung Ho released, NIntendo NES released in America
+**~1986 CE** — Gung Ho released, Nintendo NES released in America
 **~1987 CE** — Reagan's speech on Tariffs
 
 ## Exports in Decline
@@ -64,6 +64,9 @@ But what does this movie reveal about America and Japan when we look past the co
 ## The Trades War’s Cultural Impact
 
 The movie was not a major success and would just get relegated to identifying there is difference in our countries but not really attempted to address it in a serious matter. A review from Vincent Canby in the New York Times even acknowledges that these issues could have been explored more but instead went for a safe, comedic portrayal that Americans are “ good natured slobs, soft from union codling”  and “…The Japanese employers are uptight, traditionalist – efficiency-mad, authoritarian and worst of all, unable to relax and have a good time.” [^8] This movie wasn’t a major success that changed the world but instead gives us a view of how 1980s Japanese and American Culture interacted together and how there hasn’t been major shifts on they are perceived even now.
+
+## The Plaza Accords
+
 
 [^1]:https://commons.wikimedia.org/wiki/File:Reagan_Japanese_Meetings_London_1984.jpg
 [^2]:Morrison, Wayne M. & Villarreal, M. Angeles. “Japan-U.S. Trade: A Chronology of Major Events, 1980-1990, report, June 20, 1991”; Washington D.C, CRS-5
