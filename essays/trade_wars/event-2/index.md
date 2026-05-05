@@ -1,9 +1,9 @@
 ---
 title: "Hippies"
 layout: scrollstory-tabs
-header-image: /nakasone_and_reagan_reviewing_troops_at_arrival_ceremony_at_palace_in_tokyo_japan_may_4_1986.jpg
+header-image: ../images/hippies.jpg
 header-title: "Getting Gung Ho"
-thumbnail: /nakasone_and_reagan_reviewing_troops_at_arrival_ceremony_at_palace_in_tokyo_japan_may_4_1986.jpg
+thumbnail: ../images/hippies.jpg
 summary: A history of the Hippie Movement
 tabs:
   - id: overview
