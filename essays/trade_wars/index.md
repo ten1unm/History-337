@@ -63,10 +63,10 @@ There are fundamental aspects of culture that American and Japan differ in that 
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/carousel_1.jpg"
+  image-path="images/nakasone_and_reagan_reviewing_troops_at_arrival_ceremony_at_palace_in_tokyo,_japan_may_4,_1986.jpg"
   image-position="right"
   image-width="45%"
-  caption="Replace this text with image description!!!"
+  caption="President Reagan and Prime Minister Nakasone arrival ceremony, 06 May 1986"
   text=chile_nm_text
 %}
 
