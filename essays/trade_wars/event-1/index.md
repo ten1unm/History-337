@@ -27,14 +27,12 @@ tabs:
 
 # The 1980s US Japan Trade war
 [^1]
-## 1980s Timeline
+## 1980s Timeline Overview
 
 **~1973 CE** — 1st Oil Crisis following OPEC embargon on Isreal allies after Yom Kipur War. 
-
 **~1979 CE** — 2nd Oil Crisis. Iranian revolution and decreased production.
-
-**~1985 CE** — The Plaza Accords
-
+**~1985 CE** — The Plaza Accords,
+**~1986 CE** — Gung Ho released, NIntendo NES released in America
 **~1987 CE** — Reagan's speech on Tariffs
 
 ## Exports in Decline
