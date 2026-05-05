@@ -40,7 +40,7 @@ Though Semi-conductors were part of Reagan’s April 25th, 1987, tariff speech  
   image-path="../images/TB_OLD_NES_v01.png"
   image-position="left"
   image-width="50%"
-  caption="Nintendo Circuitboard."
+  caption="Nintendo Entertainment System."
   text=chile_origins_text
 %}
 
