@@ -31,9 +31,9 @@ From wild origins in the Mexican highlands to cultivation across the globe, geog
 
 ## Business or Family? Is it Both?
 
-	There are aspects of the Japanese that Americans are not familiar with and Gung Ho uses this for laughs as the film shows men screaming together for some sort of foreign business ritual. But how real is Gung Ho’s  portrayal of Japanese mentality as counter to American independence. The film attempts to portray, for comedic contrast, the Japanese idea of Nihonjinron, literally “Japanese discussions”, which attempt to discuss and debate the meaning of the Japanese essence. 
+There are aspects of the Japanese that Americans are not familiar with and Gung Ho uses this for laughs as the film shows men screaming together for some sort of foreign business ritual. But how real is Gung Ho’s  portrayal of Japanese mentality as counter to American independence. The film attempts to portray, for comedic contrast, the Japanese idea of Nihonjinron, literally “Japanese discussions”, which attempt to discuss and debate the meaning of the Japanese essence. 
   
-  Sugimoto’s writing Making Sense of Nihonjinron talks about the desire to portray Japanese society as harmonious, integrated and consensual as part of the government’s desire to reduce class conflict and promote a Japanese culture that foreigners can’t be expected to comprehend.[^2]  Sugimoto acknowledges that Nihonjinron proponents, which sometimes carry racist and nationalistic ideas, which use a frame based on Nationality, Ethnicity, and Culture (NEC). [^3]
+Sugimoto’s writing Making Sense of Nihonjinron talks about the desire to portray Japanese society as harmonious, integrated and consensual as part of the government’s desire to reduce class conflict and promote a Japanese culture that foreigners can’t be expected to comprehend.[^2]  Sugimoto acknowledges that Nihonjinron proponents, which sometimes carry racist and nationalistic ideas, which use a frame based on Nationality, Ethnicity, and Culture (NEC). [^3]
 
 {% include images/figure-wrap.html
   image-path="../images/figure_1.jpg"
@@ -61,7 +61,7 @@ Today, commercial chile production spans from New Mexico to California, from Chi
 [^2]: Sugimoto, Yoshio. “Making Sense of Nihonjinron.” Thesis Eleven 57 (May 1999): 87. https://doi-org.libproxy.unm.edu/10.1177/0725513699057000007.
 [^3]: Sugimoto, Yoshio. “Making Sense of Nihonjinron.” Thesis Eleven 57 (May 1999): 82. https://doi-org.libproxy.unm.edu/10.1177/0725513699057000007.
 [^4]: Gung Ho, 1986, 01:24:02.
-[^5]: Nicholas Buccola, One Man’s Freedom, 99-100. !!!Need full citation still
+[^5]: Nicholas Buccola, One Man’s Freedom: Goldwater, King, and the Struggle over an American Ideal (Princeton, NJ: Princeton University Press, 2025), 99–100.
 [^6]: Helfand, Gary Helfand, Gary. “The Applicability of Japanese Management Techniques in the American Public Sector: Some Cultural Considerations.” Public Productivity Review 7, no. 2 (1983): 107. https://doi-org.libproxy.unm.edu/10.2307/3380036.
 [^7]: Shotaro Ishinomori, JAPAN INC, Translated by Betsey Scheiner, University of California Press, Berkeley and  Los Angeles, July 5th, 1988, 204-205.
 [^8]: Reagan, Radio Address to the nation, April 25th, 1987.
