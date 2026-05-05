@@ -26,11 +26,9 @@ tabs:
 [^1]
 # Videogames, Music, and Anime
 
- As Japan shifted to an economic superpower in the 80s, it also shifted to a cultural super power in the realms of animation (anime) and consumer electronics.[^2]  Tokyo had risen as a New York City of the Far east, “leading production as a cosmopolitan city with an affluent younger generation”.[^3] The modern video game industry came from Japan, popular Japanese animation such as studio Ghibli, and music like J-Pop and City Pop. These industries would go on to influence the world as a form of its soft power diplomacy. [^4]
+ As Japan shifted to an economic superpower in the 80s, it also shifted to a cultural super power in the realms of animation (anime) and consumer electronics.[^2]  Tokyo had risen as a New York City of the Far east, “leading production as a cosmopolitan city with an affluent younger generation”.[^3] The modern video game industry came from Japan, popular Japanese animation such as studio Ghibli, and music like J-Pop and City Pop. These industries would go on to influence the world as a form of its soft power diplomacy. [^4] The genre of City pop music would come out with  Mariya Takeucuchi releasing her song "Plastic Love" in 1984. Am product of the cosmopolitian lifestyle of Tokyo, the song was not a major hit in the United states at the time but during the 2000s would help make city pop more mainstream when the song had over 70 million listens on Youtube.[^5]
 
-## City pop music
-
-word words words
+<iframe width="1013" height="570" src="https://www.youtube.com/watch?v=T_lC2O1oIew" title="Plastic Love (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Nintendo and Japanese videogame Dominance
 
@@ -57,7 +55,8 @@ Insert a great ending here
 The story of the chile is still being written.
 
 
-[^1]: 
+[^1]: https://www.flickr.com/photos/travfotos/10985408655
 [^2]:Stalker, Nancy K. Japan : History and Culture from Classical to Cool, University of California Press, 2018. ProQuest Ebook Central,https://ebookcentral.proquest.com/lib/unm/detail.action?docID=5435806, 362-363.
 [^3]: Uchiyama, Yosuke, Md Nasrudin Md Akhir, Fumitaka Furuoka, Yuanzhu Wang, and Larisa Nikitina. “Cultural Re-Importation through Soft Power and Transnational Cultural Flows Mediated by Digital Influence: The Case of City Pop Music in Japan, Malaysia and Indonesia.” Japan Forum 36, no. 5 (2024): 584–585. https://doi-org.libproxy.unm.edu/10.1080/09555803.2024.2407774.
 [^4]: Uchiyama et al, Cultural Re-importation, 582.
+[^5]: Uchiyama, Yosuke, Md Nasrudin Md Akhir, Fumitaka Furuoka, Yuanzhu Wang, and Larisa Nikitina. “Cultural Re-Importation through Soft Power and Transnational Cultural Flows Mediated by Digital Influence: The Case of City Pop Music in Japan, Malaysia and Indonesia.” Japan Forum 36, no. 5 (2024): 584–601. https://doi-org.libproxy.unm.edu/10.1080/09555803.2024.2407774.
