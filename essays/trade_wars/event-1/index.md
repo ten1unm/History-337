@@ -42,7 +42,7 @@ tabs:
 During the 1980s, the United States and Japan engaged in trade agreement and discussion on a variety item such as automobiles, electronics, computers, software and intellectual priority rights.[^2]  These talks were often had both sides accusing each other of protectionist legislation, pledges to reduce tariffs, promises to import greater amounts though  by 1985 trade officials from both countries were warning of the impending trade war.[^3] The trade war had serious ramifications for the US auto industry.
 
 {% include images/figure-wrap.html
-  image-path="../images/figure_1.jpg"
+  image-path="../images/UAW_Smashcar.png"
   image-position="left"
   image-width="50%"
   caption="UAW workers pay to smash a Toyota"
