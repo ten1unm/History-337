@@ -55,7 +55,7 @@ Looking at the Japanese Manga “Japan Inc”, a sort of practical comic with ec
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/japan_inc4.jpg"
+  image-path="../images/japan_inc4.jpg"
   image-position="right"
   image-width="45%"
   caption="Japan Inc portrays the fear of economic uncertainty"
