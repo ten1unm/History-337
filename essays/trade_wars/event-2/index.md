@@ -1,9 +1,9 @@
 ---
 title: "Hippies"
 layout: scrollstory-tabs
-header-image: ../gungho1
+header-image: ../images/gungho1.jpg
 header-title: "Getting Gung Ho"
-thumbnail: ../images/gungho1
+thumbnail: ../images/gungho1.jpg
 summary: A history of the Hippie Movement
 tabs:
   - id: overview
