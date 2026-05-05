@@ -48,7 +48,7 @@ During the 1980s, the United States and Japan engaged in trade agreement and dis
   caption="UAW workers pay to smash a Toyota"
   text=chile_origins_text
 %}
-[^1]
+[^4]
 These early cultivators created the genetic foundation for every chile variety we know today. Their knowledge of when to plant, how to harvest, and which plants to save seeds from represented generations of accumulated wisdom.
 
 ## Attack on the Auto industry
@@ -57,12 +57,15 @@ Beginning in the late 1970s, the Japanese started making serious gains on the Am
 
 ## Gung Ho (1986) movie
 
-Today, a new generation of farmers works to preserve heirloom chile varieties while also developing new cultivars suited to changing conditions. Organizations dedicated to seed preservation ensure that rare varieties don't disappear, while agricultural researchers work to understand the genetics of heat, flavor, and disease resistance.
+In the Ron Howard 1986 movie Gung Ho, Hunt Stevenson shouts  “The great old American do-or-die spirit, its alive, but they (the Japanese) got it. We better get it back and get it back fast.” [^7] to a crowd of angry autoworkers who are about to lose their jobs for not meeting the 15,000 cars in a month Japanese set quota. Though Gung Ho is a comedy, the underlying issues, tensions, and cultural differences that conflicted in the 1980s were often real stakes of employment and being able to care for your family. And being able to provide for your family is often viewed as one of the corner stones of American values.
+
+But what does this movie reveal about America and Japan when we look past the comedy and feel-good moments?
+
 
 
 ## The Trades War’s Cultural Impact
 
-The movie was not a major success and would just get relegated to identifying there is difference in our countries but not really attempted to address it in a serious matter. A review from Vincent Canby in the New York Times even acknowledges that these issues could have been explored more but instead went for a safe, comedic portrayal that Americans are “ good natured slobs, soft from union codling”  and “…The Japanese employers are uptight, traditionalist – efficiency-mad, authoritarian and worst of all, unable to relax and have a good time.”  This movie wasn’t a major success that changed the world but instead gives us a view of how 1980s Japanese and American Culture interacted together and how there hasn’t been major shifts on they are perceived even now.
+The movie was not a major success and would just get relegated to identifying there is difference in our countries but not really attempted to address it in a serious matter. A review from Vincent Canby in the New York Times even acknowledges that these issues could have been explored more but instead went for a safe, comedic portrayal that Americans are “ good natured slobs, soft from union codling”  and “…The Japanese employers are uptight, traditionalist – efficiency-mad, authoritarian and worst of all, unable to relax and have a good time.” [^8] This movie wasn’t a major success that changed the world but instead gives us a view of how 1980s Japanese and American Culture interacted together and how there hasn’t been major shifts on they are perceived even now.
 
 [^1]:https://commons.wikimedia.org/wiki/File:Reagan_Japanese_Meetings_London_1984.jpg
 [^2]:Morrison, Wayne M. & Villarreal, M. Angeles. “Japan-U.S. Trade: A Chronology of Major Events, 1980-1990, report, June 20, 1991”; Washington D.C, CRS-5
@@ -70,3 +73,5 @@ The movie was not a major success and would just get relegated to identifying th
 [^4]:In this photo members of the United Autoworkers Local 588 of the Ford Motor Co. stamping plant wield sledgehammers and bars on a 1975 Toyota Corolla March 3, 1981, during a rally against buying foreign-made products in Chicago Heights, IL. Japanese auto and government officials in 2005 are worried about a replay of the "Japan-bashing" trade friction of the 1980s, when Toyota and others were blamed for stealing car sales and U.S. jobs, prompting outraged auto workers to smash Japanese cars in protest. (AP Photo/Str)https://www.alamy.com/in-this-photo-members-of-the-united-autoworkers-local-588-of-the-ford-motor-co-stamping-plant-wield-sledgehammers-and-bars-on-a-1975-toyota-corolla-march-3-1981-during-a-rally-against-buying-foreign-made-products-in-chicago-heights-il-japanese-auto-and-government-officials-in-2005-are-worried-about-a-replay-of-the-japan-bashing-trade-friction-of-the-1980s-when-toyota-and-others-were-blamed-for-stealing-car-sales-and-us-jobs-prompting-outraged-auto-workers-to-smash-japanese-cars-in-protest-ap-photostr-image526411750.html
 [^5]:Frank, Dana “Demons in the Parking Lot: Auto Workers, Buy American Campaigns, and the “Japanese Threat” in the 1980s”, Amerasia Journal, 28:3, 34  (2002)  DOI:10.17953/amer.28.3.p74875252957n722
 [^6]:Frank, Dana “Demons in the Parking Lot: Auto Workers, Buy American Campaigns, and the “Japanese Threat” in the 1980s”, Amerasia Journal, 28:3, 36, (2002)  DOI:10.17953/amer.28.3.p74875252957n722
+[^7]:Gung Ho, 1986, 01:24:02
+[^8]:Canby, Vincent, "The Screen: 'Gung Ho,' Directed by Ron Howard." New York Times, March 14  1986, https://libproxy.unm.edu/login?url=https://www.proquest.com/newspapers/screen-gung-ho-directed-ron-howard/docview/111082951/se-2.
