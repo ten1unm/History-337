@@ -33,7 +33,7 @@ From wild origins in the Mexican highlands to cultivation across the globe, geog
 
 There are aspects of the Japanese that Americans are not familiar with and Gung Ho uses this for laughs as the film shows men screaming together for some sort of foreign business ritual. But how real is Gung Ho’s  portrayal of Japanese mentality as counter to American independence. The film attempts to portray, for comedic contrast, the Japanese idea of Nihonjinron, literally “Japanese discussions”, which attempt to discuss and debate the meaning of the Japanese essence. 
   
-Sugimoto’s writing Making Sense of Nihonjinron talks about the desire to portray Japanese society as harmonious, integrated and consensual as part of the government’s desire to reduce class conflict and promote a Japanese culture that foreigners can’t be expected to comprehend.[^2]  Sugimoto acknowledges that Nihonjinron proponents, which sometimes carry racist and nationalistic ideas, which use a frame based on Nationality, Ethnicity, and Culture (NEC). [^3]
+Sugimoto’s writing Making Sense of Nihonjinron talks about the desire to portray Japanese society as harmonious, integrated and consensual as part of the government’s desire to reduce class conflict and promote a Japanese culture that foreigners can’t be expected to comprehend.[^2]  Sugimoto acknowledges that Nihonjinron proponents can sometimes carry racist and nationalistic ideas, is built on a frame based on Nationality, Ethnicity, and Culture (NEC). [^3]
 
 {% include images/figure-wrap.html
   image-path="../images/figure_1.jpg"
