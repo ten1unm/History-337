@@ -37,7 +37,7 @@ tabs:
 Though Semi-conductors were part of Reagan’s April 25th, 1987, tariff speech  example of Japanese violation of the trade agreements, the Nintendo company was in full pursuit of the creation of the modern video game industry with the Family Console (Famicon) which became the Nintendo Entertainment System (NES) when exported to America. By 1988, Times magazine reported the “Nintendo” as the number one wish list item.  And 35 years later, the Japanese companies Nintendo and Sony continue to dominate the global video game industry, which generated sixty-six billion dollars of the 2023US Gross Domestic Production. INSERT IMAGE!!!
 
 {% include images/figure-wrap.html
-  image-path="../images/figure_1.jpg"
+  image-path="../images/TB_OLD_NES_v01.png"
   image-position="left"
   image-width="50%"
   caption="Nintendo Circuitboard."
