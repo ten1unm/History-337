@@ -46,7 +46,7 @@ From 1945 to the late 1970s, Japan would go from an enemy defeated by the United
   text=chile_origins_text
 %}
 
-{% include typography/pullquote.html text="\"As we explore the 1980s through business, film and mdea, what are some of US Japan Cultural legacies.\"" %}
+{% include typography/pullquote.html text="\"As we explore the 1980s through business, film and media, what are some of lasting US Japan Cultural legacies that emerged?\"" %}
 
 
 ## Cultures clashing since WW2
