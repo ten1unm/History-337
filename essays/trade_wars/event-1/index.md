@@ -1,9 +1,9 @@
 ---
 title: "US Trade Wars"
 layout: scrollstory-tabs
-header-image: ../images/hippies.jpg
+header-image: ../images/President_Ronald_Reagan_Walking_with_Prime_Minister_Yasuhiro_Nakasone_of_Japan_at_Camp_David.jpg
 header-title: "Trade, Tariffs, and Exports"
-thumbnail: ../images/hippies.jpg
+thumbnail: ../images/President_Ronald_Reagan_Walking_with_Prime_Minister_Yasuhiro_Nakasone_of_Japan_at_Camp_David
 summary: A history of US Japan 1980s trade wars
 tabs:
   - id: overview
