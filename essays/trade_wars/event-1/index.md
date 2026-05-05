@@ -61,6 +61,8 @@ Beginning in the late 1970s, the Japanese started making serious gains on the Am
 
 In the Ron Howard 1986 movie Gung Ho, Hunt Stevenson shouts  “The great old American do-or-die spirit, its alive, but they (the Japanese) got it. We better get it back and get it back fast.” [^7] to a crowd of angry autoworkers who are about to lose their jobs for not meeting the 15,000 cars in a month Japanese set quota. Though Gung Ho is a comedy, the underlying issues, tensions, and cultural differences that conflicted in the 1980s were often real stakes of employment and being able to care for your family. And being able to provide for your family is often viewed as one of the corner stones of American values.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oFwFisdZcfI?si=kAjiBWzYQoDES38-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 But what does this movie reveal about America and Japan when we look past the comedy and feel-good moments?
 
 
