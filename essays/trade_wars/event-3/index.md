@@ -26,9 +26,11 @@ tabs:
 [^1]
 # Videogames, Music, and Anime
 
- As Japan shifted to an economic superpower in the 80s, it also shifted to a cultural super power in the realms of animation (anime) and consumer electronics.[^2]  Tokyo had risen as a New York City of the Far east, “leading production as a cosmopolitan city with an affluent younger generation”.[^3] The modern video game industry came from Japan, popular Japanese animation such as studio Ghibli, and music like J-Pop and City Pop. These industries would go on to influence the world as a form of its soft power diplomacy. [^4] The genre of City pop music would come out with  Mariya Takeucuchi releasing her song "Plastic Love" in 1984. Am product of the cosmopolitian lifestyle of Tokyo, the song was not a major hit in the United states at the time but during the 2000s would help make city pop more mainstream when the song had over 70 million listens on Youtube.[^5]
+ As Japan shifted to an economic superpower in the 80s, it also shifted to a cultural super power in the realms of animation (anime) and consumer electronics.[^2]  Tokyo had risen as a New York City of the Far east, “leading production as a cosmopolitan city with an affluent younger generation”.[^3] The modern video game industry came from Japan, popular Japanese animation such as studio Ghibli, and music like J-Pop and City Pop. These industries would go on to influence the world as a form of its soft power diplomacy. [^4] 
+ 
+ The genre of City Pop music was a product of the 80s as Mariya Takeucuchi releasing her song "Plastic Love" in 1984. A product of the cosmopolitian lifestyle of Tokyo, the song was not a major hit in the United states at the time but during the 2000s would help make city pop more mainstream when the song had over 70 million listens on Youtube.[^5]
 
-<iframe width="1013" height="570" src="https://www.youtube.com/watch?v=T_lC2O1oIew" title="Plastic Love (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T_lC2O1oIew?si=F-57Ex11i8W4hA5n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Nintendo and Japanese videogame Dominance
 
@@ -48,11 +50,7 @@ The 1980s also saw the first westernization of Japanese Anime as they were impor
 
 ## Conclusion
 
-Insert a great ending here
-
----
-
-The story of the chile is still being written.
+Insert a great ending here. The story of the Chile and it's impact on Japan has yet to be written.
 
 
 [^1]: https://www.flickr.com/photos/travfotos/10985408655
