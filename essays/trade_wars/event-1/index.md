@@ -33,9 +33,9 @@ tabs:
 
 **~1979 CE** — 2nd Oil Crisis. Iranian revolution and decreased production
 
-**~1985 CE** — The Plaza Accords
+**~1985 CE** — The Plaza Accord
 
-**~1986 CE** — Gung Ho released, Nintendo NES released in America
+**~1986 CE** — Gung Ho released,  Nintendo Entertainment System released in America
 
 **~1987 CE** — Reagan's speech on Tariffs
 
@@ -55,7 +55,7 @@ These early cultivators created the genetic foundation for every chile variety w
 
 ## Attack on the Auto industry
 
-Beginning in the late 1970s, the Japanese started making serious gains on the American Car market. The once proud American auto workers lost over 270,000 jobs from 1978 to 1981.[^4]  This increase in unemployment built a resentment towards the Japanese and then also towards those of Asian descent. The United Auto Workers (UAW) even shifted this anger on members who bought imports. [^5] The impacts on the automotive industry will elaborate on more in the Auto Industry
+Beginning in the late 1970s, the Japanese started making serious gains on the American Car market. The once proud American auto workers lost over 270,000 jobs from 1978 to 1981.[^4]  This increase in unemployment built a resentment towards the Japanese and then also towards those of Asian descent. The United Auto Workers (UAW) even shifted this anger on members who bought imports. [^5] The impacts on the automotive industry will elaborate on more in the Auto Industry section.
 
 ## Gung Ho (1986) movie
 
@@ -68,8 +68,6 @@ But what does this movie reveal about America and Japan when we look past the co
 ## The Trade War’s Cultural Impact
 
 The movie was not a major success and would just get relegated to identifying there is difference in our countries but not really attempted to address it in a serious matter. A review from Vincent Canby in the New York Times even acknowledges that these issues could have been explored more but instead went for a safe, comedic portrayal that Americans are “ good natured slobs, soft from union codling”  and “…The Japanese employers are uptight, traditionalist – efficiency-mad, authoritarian and worst of all, unable to relax and have a good time.” [^8] This movie wasn’t a major success that changed the world but instead gives us a view of how 1980s Japanese and American Culture interacted together and how there hasn’t been major shifts on they are perceived even now.
-
-## The Plaza Accords
 
 
 
