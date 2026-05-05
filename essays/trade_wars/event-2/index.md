@@ -51,13 +51,7 @@ But the fact that the Japanese had efficient systems to run their business was n
 
 ## Japan Inc and it’s lasting impacts
 
-Within two centuries of Columbus, chiles had spread to nearly every continent. They found new homes in:
-- **India and Thailand**, where they transformed regional cuisines
-- **Hungary**, where they became paprika
-- **Korea**, where they became essential to kimchi
-- **Africa**, where they integrated with local cooking traditions
-
-Each place shaped the chile, selecting for different characteristics and integrating it into local food cultures.
+Looking at the Japanese Manga “Japan Inc”, a sort of practical comic with economic and business information at the end of each section, there is an acknowledgement that Japan’s economic might had vulnerabilities. [^7] Japan Inc, as a “Benkyou Manga” (Study Comic) provided a way for high schoolers and college students to study economics while following a story about Japanese companies, Union battles and national Politicians working various trade deals. The Manga was a way to inform Japanese readers that, foreign and their own government can lie, manipulate their currencies, tariff products and restrict trade as part of a Trade War to reach their national goals.[^8]
 
 ## Section Conclusion in work
 
@@ -69,3 +63,5 @@ Today, commercial chile production spans from New Mexico to California, from Chi
 [^4]: Gung Ho, 1986, 01:24:02.
 [^5]: Nicholas Buccola, One Man’s Freedom, 99-100. !!!Need full citation still
 [^6]: Helfand, Gary Helfand, Gary. “The Applicability of Japanese Management Techniques in the American Public Sector: Some Cultural Considerations.” Public Productivity Review 7, no. 2 (1983): 107. https://doi-org.libproxy.unm.edu/10.2307/3380036.
+[^7]: Shotaro Ishinomori, JAPAN INC, Translated by Betsey Scheiner, University of California Press, Berkeley and  Los Angeles, July 5th, 1988, 204-205.
+[^8]: Reagan, Radio Address to the nation, April 25th, 1987.
