@@ -39,7 +39,7 @@ From 1945 to the late 1970s, Japan would go from an enemy defeated by the United
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="../images/Reagan_arrival.jpg"
+  image-path="./images/Reagan_arrival.jpg"
   image-position="left"
   image-width="48%"
   caption="!!!Insert text related to the picture here!!!."
