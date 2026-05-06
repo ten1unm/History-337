@@ -62,9 +62,9 @@ Looking at the Japanese Manga “Japan Inc”, a sort of practical comic with ec
   text=chile_nm_text
 %}
 
-## Section Conclusion in work
+## Conclusion still in work!!!
 
-Today, commercial chile production spans from New Mexico to California, from China to India. Climate change is shifting growing regions, pushing cultivation to new altitudes and latitudes as traditional areas become too hot or dry.
+Though the Manga did portray the fears of the time that the US and Japan shared on unemployment and fair trade, the manga didn't have a major impact on America. America keeps a speration between work and play, and even if a benkyou Manga could be instructive, it is likedly to be viewed as childish due to the use of drawings.
 
 [^1]: Howard, Ron, Director. Gung Ho. Paramount, 1986. 00:00:40.
 [^2]: Sugimoto, Yoshio. “Making Sense of Nihonjinron.” Thesis Eleven 57 (May 1999): 87. https://doi-org.libproxy.unm.edu/10.1177/0725513699057000007.
