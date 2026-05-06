@@ -57,6 +57,14 @@ These early cultivators created the genetic foundation for every chile variety w
 
 Beginning in the late 1970s, the Japanese started making serious gains on the American Car market. The once proud American auto workers lost over 270,000 jobs from 1978 to 1981.[^4]  This increase in unemployment built a resentment towards the Japanese and then also towards those of Asian descent. The United Auto Workers (UAW) even shifted this anger on members who bought imports. [^5] The impacts on the automotive industry will elaborate on more in the Auto Industry section.
 
+{% include images/figure-wrap.html
+  image-path="../images/japan_inc2.jpg"
+  image-position="left"
+  image-width="50%"
+  caption="Anit Japanese sentiment as shown in Japan Inc."
+  text=chile_origins_text
+%}
+
 ## Gung Ho (1986) movie
 
 In the Ron Howard 1986 movie Gung Ho, Hunt Stevenson shouts  “The great old American do-or-die spirit, its alive, but they (the Japanese) got it. We better get it back and get it back fast.” [^7] to a crowd of angry autoworkers who are about to lose their jobs for not meeting the 15,000 cars in a month Japanese set quota. Though Gung Ho is a comedy, the underlying issues, tensions, and cultural differences that conflicted in the 1980s were often real stakes of employment and being able to care for your family. And being able to provide for your family is often viewed as one of the corner stones of American values.
