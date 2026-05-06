@@ -49,9 +49,9 @@ Comparing Nihonjinron, and its view of nation, ethnicity, and Culture, to this i
 But the fact that the Japanese had efficient systems to run their business was not lost on American businesses and there were attempts to try to assimilate some of these ideas into American productivity.
 
 
-## Japan Inc and it’s lasting impacts
+## Japan Inc and its lasting impacts
 {% capture chile_nm_text %}
-Looking at the Japanese Manga “Japan Inc”, a sort of practical comic with economic and business information at the end of each section, there is an acknowledgement that Japan’s economic might had vulnerabilities. [^7] Japan Inc, as a “Benkyou Manga” (Study Comic) provided a way for high schoolers and college students to study economics while following a story about Japanese companies, Union battles and national Politicians working various trade deals. The Manga was a way to inform Japanese readers that, foreign and their own government can lie, manipulate their currencies, tariff products and restrict trade as part of a Trade War to reach their national goals.[^8]
+Looking at the Japanese Manga “Japan Inc”, a sort of practical comic with economic and business information at the end of each section, there is an acknowledgement that Japan’s economic might had vulnerabilities. [^7] Japan Inc, as a “Benkyou Manga” (Study Comic) provided a way for high schoolers and college students to study economics while following a story about Japanese companies, Union battles and national Politicians working various trade deals. The Manga was a way to inform Japanese readers that, foreign and their own government can lie, manipulate their currencies, tariff products, and restrict trade as part of a Trade War to reach their national goals.[^8]
 {% endcapture %}
 
 {% include images/figure-wrap.html
@@ -64,7 +64,7 @@ Looking at the Japanese Manga “Japan Inc”, a sort of practical comic with ec
 
 ## Conclusion still in work!!!
 
-Though the Manga did portray the fears of the time that the US and Japan shared on unemployment and fair trade, the manga didn't have a major impact on America. America keeps a speration between work and play, and even if a benkyou Manga could be instructive, it is likedly to be viewed as childish due to the use of drawings.
+Though the Manga did portray the fears of the time that the US and Japan shared on unemployment and fair trade, the manga did not have a major impact on America. America keeps a seperation between work and play, and even if a benkyou Manga could be instructive, it is liked to be viewed as childish due to the use of drawings.
 
 [^1]: Howard, Ron, Director. Gung Ho. Paramount, 1986. 00:00:40.
 [^2]: Sugimoto, Yoshio. “Making Sense of Nihonjinron.” Thesis Eleven 57 (May 1999): 87. https://doi-org.libproxy.unm.edu/10.1177/0725513699057000007.
