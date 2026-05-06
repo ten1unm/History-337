@@ -50,6 +50,15 @@ The 1980s also saw the first westernization of Japanese Anime as they were impor
 
 {% include typography/pullquote.html text="\"Anime would grow from its initial introduction in the 1980s, into a $2.7 billion dollar industry by 2009.\"" %}
 [^6]
+
+{% include images/figure-wrap.html
+  image-path="../images/robotech.jpg"
+  image-position="left"
+  image-width="50%"
+  caption="Robotech (1985)."
+  text=chile_origins_text
+%}
+
 ## Conclusion
 
 Insert a great ending here. The story of the Chile and it's impact on Japan has yet to be written.
