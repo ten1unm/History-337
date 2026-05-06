@@ -1,5 +1,5 @@
 ---
-title: "Hippies"
+title: "Business"
 layout: scrollstory-tabs
 header-image: ../images/gungho1.jpg
 header-title: "Getting Gung Ho"

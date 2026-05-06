@@ -1,5 +1,5 @@
 ---
-title: "Hippies"
+title: "Soft Power"
 layout: scrollstory-tabs
 header-image: ../images/Street_Tokyo_Japan_1980_terry_feuerborn.jpg
 header-title: "Content for global consumption"
