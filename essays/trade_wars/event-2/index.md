@@ -27,7 +27,7 @@ tabs:
 # Japanese and American Cultural clashes in business
 [^1]
 
-From wild origins in the Mexican highlands to cultivation across the globe, geography has shaped every aspect of chile culture. But this is not important to understanding how Japanese business is conducted and how that influences relations between the US and Japan during the 1980s.
+From wild origins in the Mexican highlands to cultivation across the globe, geography has shaped every aspect of chile culture. But this is not important to understand how Japanese business was conducted and influenced relations between the US and Japan during the 1980s.
 
 ## Business or Family? Is it Both?
 
