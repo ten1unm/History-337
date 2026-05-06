@@ -80,28 +80,6 @@ There are fundamental aspects of culture that American and Japan differ in that 
 Thirty years after the countries trade war ended, Japan would continue to have a lasting impact on American Culture. From business practices, entertainment and exported cars, Japan continues to exert its cultural soft power on the US. The underlying racial tension that existed in the 1980s has decreased in certain groups from a better understanding within certain entertainment industries, such as videogames and anime, as the US increased consumption of Japanese media.
 
 
-## Sub Header 5 USE IF NEEDED
-
-EXAMPLE OF TEXT, PICTURE, and BULLET POINTS!!!
-
-The carousel below shows the diversity of modern chile culture:
-
-{% assign images_list = "images/carousel_1.jpg,images/carousel_2.jpg,images/carousel_3.jpg" | split: ',' %}
-{% include images/carousel.html id="chile-types" images=images_list %}
-
-**The varieties tell a story:**
-- Pueblo chiles: small, early, adapted to high elevations
-- Spanish varieties: brought by colonists, adapted over centuries
-- Hybrid modern varieties: bred for consistency and market appeal
-- Heirloom preservation varieties: grown specifically to maintain genetic diversity
-
-Each represents a different moment in the chile's journey from wild plant to cultural icon.
-
-
----
-
-**Further exploration:** Insert additional weblinks and resources here!!!
-
 [^1]: Reagan, Ronald, "Radio Address to the Nation on Free and Fair Trade", Camp David, April 25, 1987.
 [^2]:Stalker, Nancy K. Japan : History and Culture from Classical to Cool, University of California Press, 2018. ProQuest Ebook Central, https://ebookcentral.proquest.com/lib/unm/detail.action?docID=5435806, 362-363.
 [^3]: Endo, Russell. The Current Status of Japanese Americans. June 1st, 1985. 3, EBSCOhost.

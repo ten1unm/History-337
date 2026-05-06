@@ -62,7 +62,7 @@ Beginning in the late 1970s, the Japanese started making serious gains on the Am
   image-position="left"
   image-width="50%"
   caption="Anti-Japanese sentiment as shown in Japan Inc."
-  text=chile_origins_text
+  text=Japan_Inc_text
 %}
 
 ## Gung Ho (1986) movie
