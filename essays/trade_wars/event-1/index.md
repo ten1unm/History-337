@@ -29,7 +29,7 @@ tabs:
 [^1]
 ## 1980s Timeline Overview
 
-**~1973 CE** — 1st Oil Crisis following OPEC embargon on Isreal allies after Yom Kipur War
+**~1973 CE** — 1st Oil Crisis following OPEC embargo on Isreal allies after Yom Kippur War
 
 **~1979 CE** — 2nd Oil Crisis. Iranian revolution and decreased production
 
@@ -51,11 +51,10 @@ During the 1980s, the United States and Japan engaged in trade agreement and dis
   text=chile_origins_text
 %}
 [^4]
-These early cultivators created the genetic foundation for every chile variety we know today. Their knowledge of when to plant, how to harvest, and which plants to save seeds from represented generations of accumulated wisdom.
 
 ## Attack on the Auto industry
 
-Beginning in the late 1970s, the Japanese started making serious gains on the American Car market. The once proud American auto workers lost over 270,000 jobs from 1978 to 1981.[^4]  This increase in unemployment built a resentment towards the Japanese and then also towards those of Asian descent. The United Auto Workers (UAW) even shifted this anger on members who bought imports. [^5] The impacts on the automotive industry will elaborate on more in the Auto Industry section.
+Beginning in the late 1970s, the Japanese started making serious gains on the American Car market. The once proud American auto workers lost over 270,000 jobs from 1978 to 1981.[^4]  This increase in unemployment built a resentment towards the Japanese and then also towards those of Asian descent. The United Auto Workers (UAW) even shifted this anger on members who bought imports. [^5] The impacts on the automotive industry will be elaborated on more in the Auto Industry section.
 
 {% include images/figure-wrap.html
   image-path="../images/japan_inc2.jpg"
