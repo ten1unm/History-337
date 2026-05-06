@@ -36,14 +36,14 @@ There are aspects of the Japanese that Americans are not familiar with and Gung 
 Sugimoto’s writing Making Sense of Nihonjinron talks about the desire to portray Japanese society as harmonious, integrated and consensual as part of the government’s desire to reduce class conflict and promote a Japanese culture that foreigners can’t be expected to comprehend.[^2]  Sugimoto acknowledges that Nihonjinron proponents can sometimes carry racist and nationalistic ideas, is built on a frame based on Nationality, Ethnicity, and Culture (NEC). [^3]
 
 {% include images/figure-wrap.html
-  image-path="../images/figure_1.jpg"
+  image-path="../images/Times1.jpg"
   image-position="left"
   image-width="50%"
-  caption="Insert picture text once changed"
+  caption="Times Magazine (1996) Describing Japanese competition"
   text=chile_origins_text
 %}
 
-## The American Autoworkers Union and versus a community identity
+## The American Autoworkers Union and community identity
 
 Comparing Nihonjinron, and its view of nation, ethnicity, and Culture, to this idea that within the United States, there is some  exceptionalism which just naturally makes American’s better than the competitors reveals that American feel their work and production is exceptional. The idea that they works have lost this exceptionalism is part of the speech in Gung Ho that helps remind the workers what they are fighting for. [^4] The community aspect of being in a Union helps give it more power with its members in bargaining but tended to have “Big Labor” as an enemy of the pioneering spirit of America by people like Barry Goldwater. [^5] Union identity in labor gives the American worker as community identity that they belong to which differs from  the Japanese sharing of their working identity in the corporation management. [^6] The group honor is expressed in Gung Ho as Oishi Kazihiro drunkenly explains "I had to apologize to the workers for letting their production fall behind… A worker's value is measured by the work The company is everything. Team!"  But the cultural sentiment of this idea is lost when the scene shifts to drunken singing instead of exploring this idea more.
 But the fact that the Japanese had efficient systems to run their business was not lost on American businesses and there were attempts to try to assimilate some of these ideas into American productivity.
