@@ -65,7 +65,7 @@ There are fundamental aspects of culture that American and Japan differ in that 
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="../images/japan_inc1auto.jpg"
+  image-path="./images/japan_inc1auto.jpg"
   image-position="right"
   image-width="45%"
   caption="Japan Inc's portrayal of the UAW union's outrage"
