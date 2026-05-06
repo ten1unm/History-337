@@ -34,8 +34,6 @@ The different business styles used by America and Japan would result in the US a
 
 {% capture chile_origins_text %}
 From 1945 to the late 1970s, Japan would go from an enemy defeated by the United States in World War 2 to an economic competitor. Though they were competing economically for resources, both nations shared a view on working hard and playing hard even though each nation is culturally distinct. This site will explore some of the economic and cultural ideas that drive both nations while also examining how these cultural differences were portrayed in the 80s. Both countries seem to share the idea that there is something exceptional about its members that makes them destined for success.
-
- United States Exceptionalism drives the US led free markets of capitalism and the idea that an individual works hard for himself and that his own work results in the company staying profitable. His hard work results in his choice in how to spend his leisure time. The Japanese businesses of the 1980s also employed an almost familial bond system that results in a highly structured and hierarchical system. 
 {% endcapture %}
 
 {% include images/figure-wrap.html
@@ -45,6 +43,8 @@ From 1945 to the late 1970s, Japan would go from an enemy defeated by the United
   caption="President Reagan and Prime Minister Nakasone arrival ceremony, 06 May 1986."
   text=chile_origins_text
 %}
+
+ United States Exceptionalism drives the US led free markets of capitalism and the idea that an individual works hard for himself and that his own work results in the company staying profitable. His hard work results in his choice in how to spend his leisure time. The Japanese businesses of the 1980s also employed an almost familial bond system that results in a highly structured and hierarchical system. 
 
 <a id='R7hDPx9-RrhxY_99FSYTbA' class='gie-single' href='https://www.gettyimages.com/detail/3271061' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a><script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'R7hDPx9-RrhxY_99FSYTbA',sig:'Az4jwZm-WTzCFjhtWWR57QcKbjHpVbckC-bjjliWwlE=',w:'594px',h:'422px',items:'3271061',caption: true ,tld:'com',is360: false })});</script><script src='//embed-cdn.gettyimages.com/widgets.js' charset='utf-8' async></script>
 
