@@ -39,7 +39,7 @@ Sugimoto’s writing Making Sense of Nihonjinron talks about the desire to portr
   image-path="../images/figure_1.jpg"
   image-position="left"
   image-width="50%"
-  caption="Archaeological evidence suggests chile domestication began around 7500 BCE in Mexico—making it one of the oldest cultivated crops in the Americas."
+  caption="Insert picture text once changed"
   text=chile_origins_text
 %}
 
