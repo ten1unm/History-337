@@ -54,7 +54,7 @@ During the 1980s, the United States and Japan engaged in trade agreement and dis
 
 ## Attack on the Auto industry
 
-Beginning in the late 1970s, the Japanese started making serious gains on the American Car market. The once proud American auto workers lost over 270,000 jobs from 1978 to 1981.[^4]  This increase in unemployment built a resentment towards the Japanese and then also towards those of Asian descent. The United Auto Workers (UAW) even shifted this anger on members who bought imports. [^5] The impacts on the automotive industry will be elaborated on more in the Auto Industry section.
+Beginning in the late 1970s, the Japanese started making serious gains on the American Car market. The once proud American auto workers lost over 270,000 jobs from 1978 to 1981.[^4]  This increase in unemployment built a resentment towards the Japanese and then also towards those of Asian descent. The United Auto Workers (UAW) even shifted this anger on members who bought imports. [^5] The impacts on the automotive industry were to be a source of inspiration for the movie Gung Ho.
 
 {% include images/figure-wrap.html
   image-path="../images/japan_inc2.jpg"
@@ -66,7 +66,7 @@ Beginning in the late 1970s, the Japanese started making serious gains on the Am
 
 ## Gung Ho (1986) movie
 
-In the Ron Howard 1986 movie Gung Ho, Hunt Stevenson shouts  “The great old American do-or-die spirit, its alive, but they (the Japanese) got it. We better get it back and get it back fast.” [^7] to a crowd of angry autoworkers who are about to lose their jobs for not meeting the 15,000 cars in a month Japanese set quota. Though Gung Ho is a comedy, the underlying issues, tensions, and cultural differences that conflicted in the 1980s were often real stakes of employment and being able to care for your family. And being able to provide for your family is often viewed as one of the corner stones of American values.
+In the Ron Howard 1986 movie Gung Ho, Hunt Stevenson shouts  “The great old American do-or-die spirit, its alive, but they (the Japanese) got it. We better get it back and get it back fast.” [^7] to a crowd of angry autoworkers who are about to lose their jobs for not meeting the 15,000 cars in a month Japanese set quota. Though Gung Ho is a comedy, the underlying issues, tensions, and cultural differences that conflicted in the 1980s were often real stakes of employment and being able to care for your family. And being able to provide for your family is often viewed as one of the corner stones of American values. The movie portrays a group of ruff but lovable autoworkers who can step up to a meet an unreasonable Japanese demand that they make 15,000 cars in a month or risk beind shut down.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oFwFisdZcfI?si=kAjiBWzYQoDES38-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -74,7 +74,7 @@ But what does this movie reveal about America and Japan when we look past the co
 
 
 
-## The Trade War’s Cultural Impact
+## The Trade War’s Cultural Impact through Gung Ho
 
 The movie was not a major success and would just get relegated to identifying there is difference in our countries but not really attempted to address it in a serious matter. A review from Vincent Canby in the New York Times even acknowledges that these issues could have been explored more but instead went for a safe, comedic portrayal that Americans are “ good natured slobs, soft from union codling”  and “…The Japanese employers are uptight, traditionalist – efficiency-mad, authoritarian and worst of all, unable to relax and have a good time.” [^8] This movie wasn’t a major success that changed the world but instead gives us a view of how 1980s Japanese and American Culture interacted together and how there hasn’t been major shifts on they are perceived even now.
 
