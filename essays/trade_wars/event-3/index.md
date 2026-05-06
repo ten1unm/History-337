@@ -48,7 +48,7 @@ Though Semi-conductors were part of Reagan’s April 25th, 1987, tariff speech  
 
 The 1980s also saw the first westernization of Japanese Anime as they were imported to the West. The VHS allowed for easier importing and viewing of shows and by the late 2000s, online streaming would become another means for watching Japanese media directly.  Anime, such as Robotech, gave Americans exposure to animated war, using intense battles for action but also showing the human cost of war. 
 
-{% include typography/pullquote.html text="\"Anime would grow from a small niche group importing VHS casettets into a $2.7 billion dollar industry by 2009.\"" %}
+{% include typography/pullquote.html text="\"Anime would grow from its initial introduction in the 1980s, into a $2.7 billion dollar industry by 2009.\"" %}
 [^6]
 ## Conclusion
 
