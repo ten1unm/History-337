@@ -61,7 +61,7 @@ Beginning in the late 1970s, the Japanese started making serious gains on the Am
   image-path="../images/japan_inc2.jpg"
   image-position="left"
   image-width="50%"
-  caption="Anit Japanese sentiment as shown in Japan Inc."
+  caption="Anti-Japanese sentiment as shown in Japan Inc."
   text=chile_origins_text
 %}
 
