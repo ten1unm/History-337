@@ -42,7 +42,7 @@ From 1945 to the late 1970s, Japan would go from an enemy defeated by the United
   image-path="./images/Reagan_arrival.jpg"
   image-position="left"
   image-width="48%"
-  caption="!!!Insert text related to the picture here!!!."
+  caption="President Reagan and Prime Minister Nakasone arrival ceremony, 06 May 1986."
   text=chile_origins_text
 %}
 
