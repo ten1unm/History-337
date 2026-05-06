@@ -33,7 +33,7 @@ The different business styles used by America and Japan would result in the US a
 ## Humbled Empire to Rising Nation
 
 {% capture chile_origins_text %}
-From 1945 to the late 1970s, Japan would go from an enemy defeated by the United States in World War 2 to an economic competitor. Though they were competing econoimcally for resources, both nations shared a view on working hard and playing hard even though each nation is cultarally distinct. This site will explore some of the economic and cultural ideas that drive both nations while also examing how these cultural differences were portrayed in the 80s. Both contries seems to share the idea that there is something exceptional about it's members that make them destined for success.
+From 1945 to the late 1970s, Japan would go from an enemy defeated by the United States in World War 2 to an economic competitor. Though they were competing economically for resources, both nations shared a view on working hard and playing hard even though each nation is culturally distinct. This site will explore some of the economic and cultural ideas that drive both nations while also examining how these cultural differences were portrayed in the 80s. Both countries seem to share the idea that there is something exceptional about its members that makes them destined for success.
 
  United States Exceptionalism drives the US led free markets of capitalism and the idea that an individual works hard for himself and that his own work results in the company staying profitable. His hard work results in his choice in how to spend his leisure time. The Japanese businesses of the 1980s also employed an almost familial bond system that results in a highly structured and hierarchical system. 
 {% endcapture %}
