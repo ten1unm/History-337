@@ -39,7 +39,7 @@ Sugimoto’s writing Making Sense of Nihonjinron talks about the desire to portr
   image-path="../images/Times1.jpg"
   image-position="left"
   image-width="50%"
-  caption="Times Magazine (1996) Describing Japanese competition"
+  caption="Times Magazine (1986) Describing Japanese competition"
   text=chile_origins_text
 %}
 
