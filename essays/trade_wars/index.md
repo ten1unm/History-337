@@ -24,7 +24,7 @@ tabs:
     url: event-3/
 ---
 
-# Overview of the the 80s US Japanese Trade War
+# The US and Japan during the 1980s
 
 The United States and Japan share a “work hard, play hard” mindset that is culturally distinct. United States Exceptionalism drives the free market of capitalism and the idea that an individual works hard for himself and that his own work results in the company staying profitable. His hard work results in his choice in how to spend his leisure time. The Japanese businesses of the 1980s also employed an almost familial bond system that results in a highly structured and hierarchical system. By comparing these business styles in the 1980s “Trade War” and beyond , what emerges as we explore how Japanese culture influenced the US from the 1980s to the 2020s in ways beyond business.
 
@@ -51,7 +51,7 @@ From 1945 to the late 1970s, Japan would go from an enemy defeated by the United
 {% include typography/pullquote.html text="\"As we explore the 1980s through business, film and media, what are some of lasting US Japan Cultural legacies that emerged?\"" %}
 
 
-## Cultures clashing since WW2
+## Cultures competing since World War 2
 
 As America was exiting the energy crisis of the late 1970s, Japan was starting its rise to economic superpower as it doubled automobile production and exported 40% of them to the US.[^2] In there midst of this rise, racism towards the Japanese, being seen as a former enemy of the US during World War 2, was also prevalent in the America. This discrimination has been around since the first- and second-generation Japanese started moving into America and continues in the stereotyping portrayal of the Japanese in US media.[^3][^4]   
   
